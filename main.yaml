@@ -1,6 +1,13 @@
 
 
 items:
+  - item: 价格友好的冰箱
+    cover: img/1.5_冰箱.jpeg
+    images:
+      - img/1.5_冰箱.jpeg
+    price: €40
+    description: 适合一个人或者两个人使用，三个人也可以，上层两层冻柜，下层五层冷藏，但是需要自取。
+
   - item: 好用的基本款五键鼠标
     cover: img/1_mouse.jpeg
     images:
