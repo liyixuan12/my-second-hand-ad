@@ -16,7 +16,7 @@ items:
     price: €5
     description: 五键鼠标，好用的基本款，有线鼠标
 
-  - item: 椅子
+  - item: 透气的椅子
     cover: img/2_椅子.jpeg
     images:
       - img/2_椅子.jpeg
@@ -31,7 +31,7 @@ items:
     description: 4k 三星 显示器， 可以与显示器支架一起出，130欧, Samsung UHD Monitor U28R550UQP, 28 Zoll, IPS-Panel, 4K UHD-Auflösung, AMD FreeSync, Reaktionszeit 4 ms, Bildwiederholrate 60 Hz
 
   
-  - item: 白色的好看显示器支架
+  - item: 银色的好看显示器支架
     cover: img/2.7_显示器支架.jpg
     images:
       - img/2.7_显示器支架.jpg
@@ -58,16 +58,16 @@ items:
     images:
       - img/6_柜子.jpeg
     price: €10
-    description: 高高的白色柜子, 层数很多，可以收纳很多东西
+    description: 高高的白色柜子, 层数很多，可以收纳很多东西，层板可拆卸可组装
 
-  - item: 保存的蛮不错的柜子
+  - item: 保存的蛮不错的稳重柜子
     cover: img/3_柜子a.jpeg
     images:
       - img/3_柜子a.jpeg
     price: €15
     description: 图中的开放式柜子，半人左右高
 
-  - item: 白色的柜子
+  - item: 白色的稳重柜子
     cover: img/4_白柜.jpeg
     images:
       - img/4_白柜.jpeg
@@ -88,64 +88,64 @@ items:
       - img/5_宜家小方桌.jpeg
       - img/5_宜家小方桌2.png
     price: €4/个
-    description: 到处都有的宜家小方桌 
+    description: 到处都有的宜家小方桌，可以拼接，腿脚完整
 
   - item: 经典的打孔器
     cover: img/10_打孔器.jpeg
     images:
       - img/10_打孔器.jpeg
     price: €2
-    description: 没有拍好看起来有点旧的打孔器
+    description: 没有拍好看起来有点旧的打孔器，配件完整，打孔流程是个闭环
 
-  - item: 野餐垫
+  - item: 可以随便塞包里的野餐垫
     cover: img/11_野餐垫.jpeg
     images:
       - img/11_野餐垫.jpeg
     price: €5
-    description: 野餐垫，防水，可折叠
+    description: 野餐垫，防水，可折叠，轻便
 
   - item: 可以调的书立
     cover: img/12_书立.jpeg
     images:
       - img/12_书立.jpeg
     price: €1
-    description: 书立，可调节宽度，有隔板
+    description: 书立，可调节宽度，有隔板，坚挺
 
   - item: 普普通通的镜子
     cover: img/13_镜子.jpeg
     images:
       - img/13_镜子.jpeg
-    price: €2
-    description: 普普通通的镜子，正反两面都是镜子
+    price: €1
+    description: 普普通通的镜子，正反两面都是镜子，但倍数不同
 
   - item: 亚克力化妆品收纳
     cover: img/14_化妆品收纳.jpeg
     images:
       - img/14_化妆品收纳.jpeg
-    price: €5
+    price: €1.5
     description: 亚克力化妆品收纳，小型mini
   
   - item: 白色小包
     cover: img/15_小包.jpeg
     images:
       - img/15_小包.jpeg
-    price: €5
+    price: 送
     description: 白色小包
 
   - item: 看起来是玩偶实际上是包
     cover: img/17_包.jpeg
     images:
       - img/17_包.jpeg
-    price: €2
-    description: 看起来是玩偶实际上是包
+    price: €5
+    description: 看起来是玩偶实际上是包，在街上被夸过可爱
   
 
-  - item: 宠物坐垫送猫爬架
+  - item: 蓬松的宠物坐垫
     cover: img/16_宠物坐垫.jpeg
     images:
       - img/16_宠物坐垫.jpeg
-    price: €3
-    description: 宠物坐垫, 送小的猫爬架
+    price: €5
+    description: 没有被猫光顾过的宠物坐垫, 送没有被猫光顾过的猫抓板
   
   - item: 送一些陪猫玩的玩偶
     cover: img/30_送1.jpeg
@@ -155,7 +155,7 @@ items:
       - img/30_送3.jpeg
       - img/30_送4.jpeg      
     price: 送
-    description: 送一些陪猫玩的玩偶
+    description: 送一些陪猫玩的玩偶，不限于图上
 
   - item: 书 辛夷坞 原来
     cover: img/book_辛夷坞.jpeg
@@ -193,14 +193,41 @@ items:
     price: 送
   
 
-  - item: 书
+  - item: 书们
     cover: img/0_books.jpeg
     images:
       - img/0_books.jpeg
       - img/0_books.jpeg
+    price: €1/本
+    description: 德语书可以温习德语，中文书送书签
+
+  
+  - item: 黑色冬帽
+    cover: img/黑帽子.jpg
+    images:
+      - img/黑帽子.jpg
+    price: €5
+    description: 黑色冬帽，保暖，适合冬天戴
+
+  - item: 白色冬帽
+    cover: img/白帽子.jpg
+    images:
+      - img/白帽子.jpg
+    price: €4
+    description: 白色冬帽，保暖，适合冬天戴
+
+  - item: 毛茸茸热水袋
+    cover: img/白色热水袋.jpg
+    images:
+      - img/白色热水袋.jpg
+    price: €2
+    description: 毛茸茸热水袋，保暖，适合冬天抱着，有盖子，密封好，有猫之后没再用过，所以很新，没有猫毛
+
+  - item: 毛绒绒抱枕套
+    cover: img/抱枕套.jpg
+    images:
+      - img/抱枕套.jpg
     price: €1
-    description: 书
-
-
+    description: 毛绒绒抱枕套，保暖，没有枕芯
 
   
