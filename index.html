@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>二手商品画廊</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>二手商品画廊</h1>
+        <p>点击商品查看详情</p>
+    </header>
+
+    <main>
+        <div class="gallery-container" id="gallery-container">
+            <!-- 商品将通过 JavaScript 动态加载 -->
+            <div class="loading">加载中...</div>
+        </div>
+    </main>
+
+    <!-- 模态框 -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-body">
+                <div class="modal-info">
+                    <h2 id="modal-title"></h2>
+                    <p id="modal-price" class="modal-price"></p>
+                    <p id="modal-description" class="modal-description"></p>
+                </div>
+                <div class="modal-images-container" id="modal-images-container">
+                    <!-- 图片将通过JavaScript动态添加 -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 全屏图片查看器 -->
+    <div id="fullscreen-overlay" class="fullscreen-overlay">
+        <div class="fullscreen-close">&times;</div>
+        <img id="fullscreen-image" class="fullscreen-image" src="" alt="">
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

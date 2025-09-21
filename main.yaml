@@ -1,0 +1,199 @@
+
+
+items:
+  - item: 好用的基本款五键鼠标
+    cover: img/1_mouse.jpeg
+    images:
+      - img/1_mouse.jpeg
+      - img/1_鼠标2.jpeg
+    price: €5
+    description: 五键鼠标，好用的基本款，有线鼠标
+
+  - item: 椅子
+    cover: img/2_椅子.jpeg
+    images:
+      - img/2_椅子.jpeg
+    price: €25
+    description: 办公椅，带滚轮，可调节  
+
+  - item: 4k 三星 显示器
+    cover: img/2.6_显示器.jpeg
+    images:
+      - img/2.6_显示器.jpeg
+    price: €125
+    description: 4k 三星 显示器， 可以与显示器支架一起出，130欧, Samsung UHD Monitor U28R550UQP, 28 Zoll, IPS-Panel, 4K UHD-Auflösung, AMD FreeSync, Reaktionszeit 4 ms, Bildwiederholrate 60 Hz
+
+  
+  - item: 白色的好看显示器支架
+    cover: img/2.7_显示器支架.jpg
+    images:
+      - img/2.7_显示器支架.jpg
+      - img/2.6_显示器.jpeg
+    price: €15
+    description: 可以与显示器支架一起出，130欧，安装效果见显示器图，虽然是机械固定不是气动的但是调节高度很神奇实地得不需要拧螺丝。注意，放电脑的那一臂已经找不到了
+  
+  - item: 黑色的常见显示器支架
+    cover: img/2.8_显示器支架.png
+    images: 
+      - img/2.8_显示器支架.png
+    price: €15
+    description: 放电脑的那一臂没有丢的显示器支架，机械式，品牌不是图中所示的，只是因为平时只用显示器支架的部分。
+
+  - item: Zoom常备的USB摄像头
+    cover: img/2.9_摄像头.jpeg
+    images:
+      - img/2.9_摄像头.jpeg
+    price: €7
+    description: Zoom常备的USB摄像头，可以与显示器支架一起出，10欧
+  
+  - item: 高高的白色柜子
+    cover: img/6_柜子.jpeg
+    images:
+      - img/6_柜子.jpeg
+    price: €10
+    description: 高高的白色柜子, 层数很多，可以收纳很多东西
+
+  - item: 保存的蛮不错的柜子
+    cover: img/3_柜子a.jpeg
+    images:
+      - img/3_柜子a.jpeg
+    price: €15
+    description: 图中的开放式柜子，半人左右高
+
+  - item: 白色的柜子
+    cover: img/4_白柜.jpeg
+    images:
+      - img/4_白柜.jpeg
+    price: €10
+    description: 白色的柜子，比上一个柜子窄一点
+  
+  - item: 曾经流行的宜家理线盒两个
+    cover: img/9_理线盒.jpeg
+    images:
+      - img/9_理线盒.jpeg
+      - img/9_理线盒2.jpeg
+    price: €3.5/个
+    description: 曾经流行的宜家理线盒，型号ROMMA
+  
+  - item: 到处都有的宜家小方桌两个
+    cover: img/5_宜家小方桌.jpeg
+    images:
+      - img/5_宜家小方桌.jpeg
+      - img/5_宜家小方桌2.png
+    price: €4/个
+    description: 到处都有的宜家小方桌 
+
+  - item: 经典的打孔器
+    cover: img/10_打孔器.jpeg
+    images:
+      - img/10_打孔器.jpeg
+    price: €2
+    description: 没有拍好看起来有点旧的打孔器
+
+  - item: 野餐垫
+    cover: img/11_野餐垫.jpeg
+    images:
+      - img/11_野餐垫.jpeg
+    price: €5
+    description: 野餐垫，防水，可折叠
+
+  - item: 可以调的书立
+    cover: img/12_书立.jpeg
+    images:
+      - img/12_书立.jpeg
+    price: €1
+    description: 书立，可调节宽度，有隔板
+
+  - item: 普普通通的镜子
+    cover: img/13_镜子.jpeg
+    images:
+      - img/13_镜子.jpeg
+    price: €2
+    description: 普普通通的镜子，正反两面都是镜子
+
+  - item: 亚克力化妆品收纳
+    cover: img/14_化妆品收纳.jpeg
+    images:
+      - img/14_化妆品收纳.jpeg
+    price: €5
+    description: 亚克力化妆品收纳，小型mini
+  
+  - item: 白色小包
+    cover: img/15_小包.jpeg
+    images:
+      - img/15_小包.jpeg
+    price: €5
+    description: 白色小包
+
+  - item: 看起来是玩偶实际上是包
+    cover: img/17_包.jpeg
+    images:
+      - img/17_包.jpeg
+    price: €2
+    description: 看起来是玩偶实际上是包
+  
+
+  - item: 宠物坐垫送猫爬架
+    cover: img/16_宠物坐垫.jpeg
+    images:
+      - img/16_宠物坐垫.jpeg
+    price: €3
+    description: 宠物坐垫, 送小的猫爬架
+  
+  - item: 送一些陪猫玩的玩偶
+    cover: img/30_送1.jpeg
+    images:
+      - img/30_送1.jpeg
+      - img/30_送2.jpeg
+      - img/30_送3.jpeg
+      - img/30_送4.jpeg      
+    price: 送
+    description: 送一些陪猫玩的玩偶
+
+  - item: 书 辛夷坞 原来
+    cover: img/book_辛夷坞.jpeg
+    images:
+      - img/book_辛夷坞.jpeg
+    description: 辛夷坞 《原来》
+    price: 送
+
+  - item: 书 华氏451
+    cover: img/book_华氏451.jpeg
+    images:
+      - img/book_华氏451.jpeg
+    description: 反乌托邦著名作品 华氏451
+    price: 送
+
+  - item: 书 普鲁斯特的心脏 东野圭吾
+    cover: img/book_普鲁斯特.jpeg
+    images:
+      - img/book_普鲁斯特.jpeg
+    description: 东野圭吾 普鲁斯特的心脏 
+    price: 送
+
+  - item: 书 冰窠
+    cover: img/book_冰窠.jpeg
+    images:
+      - img/book_冰窠.jpeg
+    description: 东野圭吾 冰窠
+    price: 送
+  
+  - item: 书 德国史稿
+    cover: img/book_德国史稿.jpeg
+    images:
+      - img/book_德国史稿.jpeg
+    description: 利奥波德 冯 兰克 德国史稿
+    price: 送
+  
+
+  - item: 书
+    cover: img/0_books.jpeg
+    images:
+      - img/0_books.jpeg
+      - img/0_books.jpeg
+    price: €1
+    description: 书
+
+
+
+  
