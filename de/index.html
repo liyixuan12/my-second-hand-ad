@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Darmstadt Gebraucht - Deutsch</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header>
+        <h1>Darmstadt Gebraucht</h1>
+        <p>Klicken Sie auf Artikel für Details. Kontaktieren Sie mich bei Interesse</p>
+        <div class="language-switcher">
+            <a href="../zh/">中文</a>
+            <a href="../en/">English</a>
+            <a href="../de/" class="active">Deutsch</a>
+        </div>
+    </header>
+
+    <main>
+        <div class="gallery-container" id="gallery-container">
+            <!-- Artikel werden dynamisch über JavaScript geladen -->
+            <div class="loading">Lädt...</div>
+        </div>
+    </main>
+
+    <!-- Modal -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-body">
+                <div class="modal-info">
+                    <h2 id="modal-title"></h2>
+                    <p id="modal-price" class="modal-price"></p>
+                    <p id="modal-description" class="modal-description"></p>
+                </div>
+                <div class="modal-images-container" id="modal-images-container">
+                    <!-- Bilder werden dynamisch über JavaScript hinzugefügt -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Vollbild-Bildbetrachter -->
+    <div id="fullscreen-overlay" class="fullscreen-overlay">
+        <div class="fullscreen-close">&times;</div>
+        <img id="fullscreen-image" class="fullscreen-image" src="" alt="">
+    </div>
+
+    <script>
+        window.currentLanguage = 'de';
+    </script>
+    <script src="../script.js"></script>
+</body>
+</html>

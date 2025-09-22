@@ -30,6 +30,32 @@ header p {
     opacity: 0.9;
 }
 
+.language-switcher {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.language-switcher a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.language-switcher a:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+
+.language-switcher a.active {
+    background: rgba(255, 255, 255, 0.3);
+    font-weight: bold;
+}
+
 main {
     max-width: 1200px;
     margin: 0 auto;

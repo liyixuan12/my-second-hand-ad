@@ -1,205 +1,616 @@
+# Deprecated
 
+# items:
+#     - title:
+#         zh: 价格友好的冰箱
+#         en: Refrigerator
+#         de: Kühlschrank
+#         cover: img/1.5_冰箱.jpeg
+#       images:
+#           - img/1.5_冰箱.jpeg
+#       price: €40
+#       description: 
+#           zh: 适合一个人或者两个人使用，三个人也可以，上层两层冻柜，下层五层冷藏，但是需要自取。
+#           en: Suitable for 1-3 people. Two freezer compartments on top, five refrigerator compartments below. Self-pickup required.
+#           de: Geeignet für 1-3 Personen. Zwei Gefrierfächer oben, fünf Kühlfächer unten. Selbstabholung erforderlich.
 
-items:
-  - item: 价格友好的冰箱
-    cover: img/1.5_冰箱.jpeg
-    images:
-      - img/1.5_冰箱.jpeg
-    price: €40
-    description: 适合一个人或者两个人使用，三个人也可以，上层两层冻柜，下层五层冷藏，但是需要自取。
+#     - item: 
+#             zh: 两个100x200的床垫
+#             en: Two 100x200 Mattresses
+#             de: Zwei 100x200 Matratzen
+#       cover: img/1.5_床垫.png
+#       images: 
+#             - img/1.5_床垫.png
+#             - img/1.5_床垫2.jpeg
+#       price: €15/个（弹簧床垫） €10/个（乳胶床垫）
+#       description: 
+#             zh: 一个硬度很合格的弹簧床垫，一个软一点的乳胶床垫
+#             en: One firm spring mattress and one softer latex mattress
+#             de: Eine feste Federkernmatratze und eine weichere Latexmatratze
 
-  - item: 好用的基本款五键鼠标
-    cover: img/1_mouse.jpeg
-    images:
-      - img/1_mouse.jpeg
-      - img/1_鼠标2.jpeg
-    price: €5
-    description: 五键鼠标，好用的基本款，有线鼠标
+#     - item: 
+#             zh: 好用的基本款五键鼠标
+#             en: Five-Button Mouse
+#             de: Fünf-Tasten-Maus
+#       cover: img/1_mouse.jpeg
+#       images:
+#             - img/1_mouse.jpeg
+#             - img/1_鼠标2.jpeg
+#       price: €5
+#       description: 
+#             zh: 五键鼠标，好用的基本款，有线鼠标
+#             en: Five-button wired mouse, basic model
+#             de: Fünf-Tasten-Kabelmaus, Grundmodell
 
-  - item: 椅子
-    cover: img/2_椅子.jpeg
-    images:
-      - img/2_椅子.jpeg
-    price: €25
-    description: 办公椅，带滚轮，可调节  
+#     - item: 
+#         zh: 办公椅
+#         en: Office Chair
+#         de: Bürostuhl
+#       cover: img/2_椅子.jpeg
+#       images:
+#           - img/2_椅子.jpeg
+#       price: €25
+#       description: 
+#           zh: 办公椅，带滚轮，可调节
+#           en: Office chair with wheels, adjustable
+#           de: Bürostuhl mit Rollen, verstellbar
 
-  - item: 4k 三星 显示器
-    cover: img/2.6_显示器.jpeg
-    images:
-      - img/2.6_显示器.jpeg
-    price: €125
-    description: 4k 三星 显示器， 可以与显示器支架一起出，130欧, Samsung UHD Monitor U28R550UQP, 28 Zoll, IPS-Panel, 4K UHD-Auflösung, AMD FreeSync, Reaktionszeit 4 ms, Bildwiederholrate 60 Hz
+#     # 2.3 咖啡机
+#     - item: 
+#           zh: 一手咖啡机
+#           en: Coffee Machine
+#           de: Kaffeemaschine
+#       cover: img/2.3_咖啡机.jpeg
+#       images:
+#         - img/2.3_咖啡机.jpeg
+#       price: €10
+#       description: 
+#           zh: 一手的咖啡机
+#           en: Coffee machine, barely used
+#           de: Kaffeemaschine, kaum benutzt
 
-  
-  - item: 白色的好看显示器支架
-    cover: img/2.7_显示器支架.jpg
-    images:
-      - img/2.7_显示器支架.jpg
-      - img/2.6_显示器.jpeg
-    price: €15
-    description: 可以与显示器支架一起出，130欧，安装效果见显示器图，虽然是机械固定不是气动的但是调节高度很神奇实地得不需要拧螺丝。注意，放电脑的那一臂已经找不到了
-  
-  - item: 黑色的常见显示器支架
-    cover: img/2.8_显示器支架.png
-    images: 
-      - img/2.8_显示器支架.png
-    price: €15
-    description: 放电脑的那一臂没有丢的显示器支架，机械式，品牌不是图中所示的，只是因为平时只用显示器支架的部分。
+#     - item: 
+#           zh: 德语键盘
+#           en: German Keyboard
+#           de: Deutsche Tastatur
+#       cover: img/2.5_键盘.jpeg
+#       images:
+#         - img/2.5_键盘.jpeg
+#       price: €10
+#       description: 
+#           zh: 键盘，好用的基本款，有线键盘
+#           en: German keyboard, wired, basic model
+#           de: Deutsche Tastatur, kabelgebunden, Grundmodell
+    
+#     - item: 
+#           zh: 看起来一般但是很有名的Filco圣手二代，送一套键帽
+#           en: Filco Majestouch 2 Keyboard
+#           de: Filco Majestouch 2 Tastatur
+#       cover: img/2.6_Filco.png
+#       images:
+#         - img/2.6_Filco.png
+#       price: €100
+#       description: 
+#           zh: Filco 二代圣手键盘，108键 全尺寸配列，茶轴（我记得应该是的），图片为参考价格
+#           en: Filco Majestouch 2 keyboard, 108-key full size, brown switches (I think), price reference in image
+#           de: Filco Majestouch 2 Tastatur, 108-Tasten Vollformat, braune Switches (glaube ich), Preisreferenz im Bild
+    
+#     - item: 
+#           zh: 嵌入式爱好者友好的STM32开发板
+#           en: STM32 Development Board
+#           de: STM32 Entwicklungsboard
+#       cover: img/2.8_开发板.jpeg
+#       images:
+#         - img/2.8_开发板.jpeg
+#         - img/2.8_开发板2.jpeg
+#       price: €1
+#       description: 
+#           zh: 嵌入式爱好者友好的STM32开发板
+#           en: STM32 development board for embedded enthusiasts
+#           de: STM32 Entwicklungsboard für Embedded-Enthusiasten
+    
 
-  - item: Zoom常备的USB摄像头
-    cover: img/2.9_摄像头.jpeg
-    images:
-      - img/2.9_摄像头.jpeg
-    price: €7
-    description: Zoom常备的USB摄像头，可以与显示器支架一起出，10欧
-  
-  - item: 高高的白色柜子
-    cover: img/6_柜子.jpeg
-    images:
-      - img/6_柜子.jpeg
-    price: €10
-    description: 高高的白色柜子, 层数很多，可以收纳很多东西
+#     - item: 
+#           zh: 4k 三星 显示器
+#           en: 4K Samsung Monitor
+#           de: 4K Samsung Monitor
+#       cover: img/2.6_显示器.jpeg
+#       images:
+#         - img/2.6_显示器.jpeg
+#       price: €125
+#       description: 
+#           zh: 4k 三星 显示器， 可以与显示器支架一起出，130欧, Samsung UHD Monitor U28R550UQP, 28 Zoll, IPS-Panel, 4K UHD-Auflösung, AMD FreeSync, Reaktionszeit 4 ms, Bildwiederholrate 60 Hz
+#           en: 4K Samsung monitor, can bundle with stand for €130, Samsung UHD Monitor U28R550UQP, 28", IPS panel, 4K UHD resolution, AMD FreeSync, 4ms response time, 60Hz refresh rate
+#           de: 4K Samsung Monitor, kann mit Ständer für €130 gekauft werden, Samsung UHD Monitor U28R550UQP, 28 Zoll, IPS-Panel, 4K UHD-Auflösung, AMD FreeSync, Reaktionszeit 4ms, Bildwiederholrate 60Hz
 
-  - item: 保存的蛮不错的柜子
-    cover: img/3_柜子a.jpeg
-    images:
-      - img/3_柜子a.jpeg
-    price: €15
-    description: 图中的开放式柜子，半人左右高
+    
+#     - item: 
+#           zh: 白色的好看显示器支架
+#           en: White Monitor Stand
+#           de: Weißer Monitorständer
+#       cover: img/2.7_显示器支架.jpg
+#       images:
+#         - img/2.7_显示器支架.jpg
+#         - img/2.6_显示器.jpeg
+#       price: €15
+#       description: 
+#           zh: 可以与显示器支架一起出，130欧，安装效果见显示器图，虽然是机械固定不是气动的，但是调节高度是很神奇实地得不需要拧螺丝的。注意，放电脑的那一臂已经找不到了
+#           en: White monitor stand, height adjustable, mechanical mount, computer arm missing
+#           de: Weißer Monitorständer, höhenverstellbar, mechanische Befestigung, Computerarm fehlt
+    
+#     - item: 
+#           zh: 黑色的常见显示器支架
+#           en: Black Monitor Stand
+#           de: Schwarzer Monitorständer
+#       cover: img/2.8_显示器支架.png
+#       images: 
+#         - img/2.8_显示器支架.png
+#       price: €15
+#       description: 
+#           zh: 黑色显示器支架，机械式，电脑托臂完整
+#           en: Black monitor stand, mechanical type, computer arm included
+#           de: Schwarzer Monitorständer, mechanischer Typ, Computerarm enthalten
 
-  - item: 白色的柜子
-    cover: img/4_白柜.jpeg
-    images:
-      - img/4_白柜.jpeg
-    price: €10
-    description: 白色的柜子，比上一个柜子窄一点
-  
-  - item: 曾经流行的宜家理线盒两个
-    cover: img/9_理线盒.jpeg
-    images:
-      - img/9_理线盒.jpeg
-      - img/9_理线盒2.jpeg
-    price: €3.5/个
-    description: 曾经流行的宜家理线盒，型号ROMMA
-  
-  - item: 到处都有的宜家小方桌两个
-    cover: img/5_宜家小方桌.jpeg
-    images:
-      - img/5_宜家小方桌.jpeg
-      - img/5_宜家小方桌2.png
-    price: €4/个
-    description: 到处都有的宜家小方桌 
+#     - item: 
+#           zh: Zoom常备的USB摄像头
+#           en: USB Camera
+#           de: USB-Kamera
+#       cover: img/2.9_摄像头.jpeg
+#       images:
+#         - img/2.9_摄像头.jpeg
+#       price: €7
+#       description: 
+#           zh: Zoom常备的USB摄像头，可以与显示器支架一起出，10欧
+#           en: USB camera for video calls
+#           de: USB-Kamera für Videoanrufe
+    
+#     - item: 
+#           zh: 高高的白色柜子
+#           en: Tall White Cabinet
+#           de: Hoher weißer Schrank
+#       cover: img/6_柜子.jpeg
+#       images:
+#         - img/6_柜子.jpeg
+#       price: €10
+#       description: 
+#           zh: 高高的白色柜子, 层数很多，可以收纳很多东西
+#           en: Tall white cabinet with multiple shelves, large storage capacity
+#           de: Hoher weißer Schrank mit mehreren Regalen, großes Stauvolumen
 
-  - item: 经典的打孔器
-    cover: img/10_打孔器.jpeg
-    images:
-      - img/10_打孔器.jpeg
-    price: €2
-    description: 没有拍好看起来有点旧的打孔器
+#     - item: 
+#           zh: 保存的蛮不错的柜子
+#           en: Open Shelf Cabinet
+#           de: Offenes Regal
+#       cover: img/3_柜子a.jpeg
+#       images:
+#         - img/3_柜子a.jpeg
+#       price: €15
+#       description: 
+#           zh: 图中的开放式柜子，半人左右高
+#           en: Open shelf cabinet, medium height
+#           de: Offenes Regal, mittlere Höhe
 
-  - item: 野餐垫
-    cover: img/11_野餐垫.jpeg
-    images:
-      - img/11_野餐垫.jpeg
-    price: €5
-    description: 野餐垫，防水，可折叠
+#     - item: 
+#           zh: 白色的柜子
+#           en: Narrow White Cabinet
+#           de: Schmaler weißer Schrank
+#       cover: img/4_白柜.jpeg
+#       images:
+#         - img/4_白柜.jpeg
+#       price: €10
+#       description: 
+#           zh: 窄白色柜子
+#           en: Narrow white cabinet
+#           de: Schmaler weißer Schrank
 
-  - item: 可以调的书立
-    cover: img/12_书立.jpeg
-    images:
-      - img/12_书立.jpeg
-    price: €1
-    description: 书立，可调节宽度，有隔板
+#     # 单开门柜
+#     - item: 
+#           zh: 只有一个门的柜
+#           en: Single Door Cabinet
+#           de: Einflügeliger Schrank
+#       cover: img/8.2_单开门柜.jpeg
+#       images:
+#         - img/8.2_单开门柜.jpeg
+#       price: €10
+#       description: 
+#           zh: 看起来应该有两扇门其实只有一扇门的柜子
+#           en: Single door cabinet
+#           de: Einflügeliger Schrank
 
-  - item: 普普通通的镜子
-    cover: img/13_镜子.jpeg
-    images:
-      - img/13_镜子.jpeg
-    price: €2
-    description: 普普通通的镜子，正反两面都是镜子
+#     - item: 
+#           zh: 窄窄的柜子
+#           en: Narrow Tall Cabinet
+#           de: Schmaler hoher Schrank
+#       cover: img/8.3_窄高柜.jpeg
+#       images:
+#         - img/8.3_窄高柜.jpeg
+#       price: €10
+#       description: 
+#           zh: 窄窄的、高高的柜子
+#           en: Narrow tall cabinet
+#           de: Schmaler hoher Schrank
 
-  - item: 亚克力化妆品收纳
-    cover: img/14_化妆品收纳.jpeg
-    images:
-      - img/14_化妆品收纳.jpeg
-    price: €5
-    description: 亚克力化妆品收纳，小型mini
-  
-  - item: 白色小包
-    cover: img/15_小包.jpeg
-    images:
-      - img/15_小包.jpeg
-    price: €5
-    description: 白色小包
+#     - item: 
+#           zh: 大鞋架
+#           en: Large Shoe Rack
+#           de: Großes Schuhregal
+#       cover: img/8.1_大鞋架.jpeg
+#       images:
+#         - img/8.1_大鞋架.jpeg
+#       price: €10
+#       description: 
+#           zh: 大鞋架
+#           en: Large shoe rack
+#           de: Großes Schuhregal
+    
+#     - item: 
+#           zh: 矮的鞋架
+#           en: White Shoe Rack
+#           de: Weißes Schuhregal
+#       cover: img/8_白色鞋架.jpeg
+#       images:
+#         - img/8_白色鞋架.jpeg
+#       price: €10
+#       description: 
+#           zh: 矮的鞋架
+#           en: White shoe rack, low profile
+#           de: Weißes Schuhregal, niedrige Bauweise
 
-  - item: 看起来是玩偶实际上是包
-    cover: img/17_包.jpeg
-    images:
-      - img/17_包.jpeg
-    price: €2
-    description: 看起来是玩偶实际上是包
-  
+#     - item: 
+#           zh: 衣架
+#           en: Clothes Rack
+#           de: Kleiderständer
+#       cover: img/9.2_衣架2.jpeg
+#       images:
+#         - img/9.2_衣架2.jpeg
+#         - img/9.2_衣架.jpeg
+#       price: €10
+#       description: 
+#           zh: 衣架
+#           en: Clothes rack
+#           de: Kleiderständer
+    
+#     - item: 
+#           zh: 宜家理线盒
+#           en: IKEA Cable Box
+#           de: IKEA Kabelbox
+#       cover: img/9_理线盒.jpeg
+#       images:
+#         - img/9_理线盒.jpeg
+#         - img/9_理线盒2.jpeg
+#       price: €3.5/个
+#       description: 
+#           zh: 宜家理线盒，型号ROMMA，两个
+#           en: IKEA cable management box, model ROMMA, set of two
+#           de: IKEA Kabelmanagement-Box, Modell ROMMA, 2 Stück
+    
+#     - item: 
+#           zh: 宜家小方桌
+#           en: IKEA Small Square Table
+#           de: IKEA kleiner quadratischer Tisch
+#       cover: img/5_宜家小方桌.jpeg
+#       images:
+#         - img/5_宜家小方桌.jpeg
+#         - img/5_宜家小方桌2.png
+#       price: €4/个
+#       description: 
+#           zh: 宜家小方桌，两个
+#           en: IKEA small square tables, set of two
+#           de: IKEA kleine quadratische Tische, 2 Stück 
 
-  - item: 宠物坐垫送猫爬架
-    cover: img/16_宠物坐垫.jpeg
-    images:
-      - img/16_宠物坐垫.jpeg
-    price: €3
-    description: 宠物坐垫, 送小的猫爬架
-  
-  - item: 送一些陪猫玩的玩偶
-    cover: img/30_送1.jpeg
-    images:
-      - img/30_送1.jpeg
-      - img/30_送2.jpeg
-      - img/30_送3.jpeg
-      - img/30_送4.jpeg      
-    price: 送
-    description: 送一些陪猫玩的玩偶
+#     - item: 
+#           zh: 各种锅具
+#           en: Various Pots and Pans
+#           de: Verschiedene Töpfe und Pfannen
+#       cover: img/7_锅.jpeg
+#       images:
+#         - img/7_锅.jpeg
+#         - img/7_锅1.jpeg
+#         - img/7_锅2.jpeg
+#         - img/7_锅3.jpeg
+#         - img/7_锅4.jpeg
+#       price: €10 €5 €5 €3
+#       description: 
+#           zh: 各种锅具，不同尺寸，未使用
+#           en: Various pots and pans, different sizes, unused
+#           de: Verschiedene Töpfe und Pfannen, verschiedene Größen, unbenutzt
 
-  - item: 书 辛夷坞 原来
-    cover: img/book_辛夷坞.jpeg
-    images:
-      - img/book_辛夷坞.jpeg
-    description: 辛夷坞 《原来》
-    price: 送
+#     - item: 
+#           zh: 打孔器
+#           en: Hole Puncher
+#           de: Locher
+#       cover: img/10_打孔器.jpeg
+#       images:
+#         - img/10_打孔器.jpeg
+#       price: €2
+#       description: 
+#           zh: 没有拍好看起来有点旧的打孔器
+#           en: Hole puncher
+#           de: Locher
 
-  - item: 书 华氏451
-    cover: img/book_华氏451.jpeg
-    images:
-      - img/book_华氏451.jpeg
-    description: 反乌托邦著名作品 华氏451
-    price: 送
+#     - item: 
+#           zh: 野餐垫
+#           en: Picnic Mat
+#           de: Picknickdecke
+#       cover: img/11_野餐垫.jpeg
+#       images:
+#         - img/11_野餐垫.jpeg
+#       price: €5
+#       description: 
+#           zh: 野餐垫，可折叠
+#           en: Picnic mat, waterproof, foldable
+#           de: Picknickdecke, wasserdicht, faltbar
 
-  - item: 书 普鲁斯特的心脏 东野圭吾
-    cover: img/book_普鲁斯特.jpeg
-    images:
-      - img/book_普鲁斯特.jpeg
-    description: 东野圭吾 普鲁斯特的心脏 
-    price: 送
+#     - item: 
+#           zh: 薄垫子
+#           en: Thin Mat
+#           de: Dünne Matte
+#       cover: img/11.5_垫子.jpeg
+#       images:
+#         - img/11.5_垫子.jpeg
+#       price: €5
+#       description: 
+#           zh: 薄垫子，可折叠
+#           en: Thin mat, foldable
+#           de: Dünne Matte, faltbar
 
-  - item: 书 冰窠
-    cover: img/book_冰窠.jpeg
-    images:
-      - img/book_冰窠.jpeg
-    description: 东野圭吾 冰窠
-    price: 送
-  
-  - item: 书 德国史稿
-    cover: img/book_德国史稿.jpeg
-    images:
-      - img/book_德国史稿.jpeg
-    description: 利奥波德 冯 兰克 德国史稿
-    price: 送
-  
+#     - item: 
+#           zh: 可调节书立
+#           en: Adjustable Bookend
+#           de: Verstellbarer Buchstütze
+#       cover: img/12_书立.jpeg
+#       images:
+#         - img/12_书立.jpeg
+#       price: €1
+#       description: 
+#           zh: 可调节书立，带隔板
+#           en: Adjustable bookend with dividers
+#           de: Verstellbare Buchstütze mit Trennwänden
 
-  - item: 书
-    cover: img/0_books.jpeg
-    images:
-      - img/0_books.jpeg
-      - img/0_books.jpeg
-    price: €1
-    description: 书
+#     - item: 
+#           zh: 双面镜
+#           en: Double-Sided Mirror
+#           de: Doppelseitiger Spiegel
+#       cover: img/13_镜子.jpeg
+#       images:
+#         - img/13_镜子.jpeg
+#       price: €2
+#       description: 
+#           zh: 普普通通的镜子，正反两面都是镜子
+#           en: Double-sided mirror
+#           de: Doppelseitiger Spiegel
+
+#     - item: 
+#           zh: 亚克力化妆品收纳盒
+#           en: Acrylic Cosmetic Organizer
+#           de: Acryl Kosmetik-Organizer
+#       cover: img/14_化妆品收纳.jpeg
+#       images:
+#         - img/14_化妆品收纳.jpeg
+#       price: €5
+#       description: 
+#           zh: 小的亚克力化妆品收纳盒
+#           en: Acrylic cosmetic organizer, small size
+#           de: Acryl Kosmetik-Organizer, kleine Größe
+    
+#     - item: 
+#           zh: 白色小包
+#           en: White Small Bag
+#           de: Weiße kleine Tasche
+#       cover: img/15_小包.jpeg
+#       images:
+#         - img/15_小包.jpeg
+#       price: €5
+#       description: 
+#           zh: 白色小包
+#           en: White small bag
+#           de: Weiße kleine Tasche
+
+#     - item: 
+#           zh: 看起来是玩偶实际上是包
+#           en: Plush Toy Bag
+#           de: Plüschtier-Tasche
+#       cover: img/17_包.jpeg
+#       images:
+#         - img/17_包.jpeg
+#       price: €2
+#       description: 
+#           zh: 看起来是玩偶实际上是包
+#           en: Bag shaped like a plush toy
+#           de: Tasche in Form eines Plüschtiers
+
+    
+
+#     # 19 快速折衣板
+#     - item: 
+#           zh: 快速折衣板
+#           en: Clothes Folding Board
+#           de: Kleiderfaltbrett
+#       cover: img/19_快速折衣板.jpeg
+#       images:
+#         - img/19_快速折衣板.jpeg
+#       price: €2
+#       description: 
+#           zh: 快速折衣板
+#           en: Clothes folding board
+#           de: Kleiderfaltbrett
+
+    
+
+#     - item: 
+#           zh: 宠物坐垫送猫爬架
+#           en: Pet Cushion
+#           de: Haustierkissen
+#       cover: img/16_宠物坐垫.jpeg
+#       images:
+#         - img/16_宠物坐垫.jpeg
+#       price: €3
+#       description: 
+#           zh: 宠物坐垫，送小的猫爬架
+#           en: Pet cushion, includes small cat tree
+#           de: Haustierkissen, inklusive kleinem Katzenkratzbaum
+
+#     # 20 床笠
+#     - item: 
+#           zh: 床笠 120x200
+#           en: Fitted Sheet 120x200
+#           de: Spannbettlaken 120x200
+#       cover: img/20_床笠.jpeg
+#       images:
+#         - img/20_床笠.jpeg
+#       price: €5
+#       description: 
+#           zh: 床笠 120x200
+#           en: Fitted sheet 120x200
+#           de: Spannbettlaken 120x200
+    
+#     # 21 桌上物品收纳
+#     - item: 
+#           zh: 桌面收纳盒
+#           en: Desktop Organizer
+#           de: Schreibtisch-Organizer
+#       cover: img/21_桌上物品收纳.jpeg
+#       images:
+#         - img/21_桌上物品收纳.jpeg
+#       price: €5
+#       description: 
+#           zh: 桌面收纳盒
+#           en: Desktop organizer
+#           de: Schreibtisch-Organizer
+
+#     - item: 
+#           zh: 各种杯具
+#           en: Various Cups and Glasses
+#           de: Verschiedene Tassen und Gläser
+#       cover: img/22_杯子.jpeg
+#       images:
+#         - img/22_杯子.jpeg
+#         - img/22_杯子2.jpeg
+#         - img/22_杯子3.jpeg
+#         - img/22_杯子4.jpeg
+#       price: 图1, €5, €1, €1, €1
+#       description: 
+#           zh: 不同时期买的高脚杯，茶杯，茶壶等
+#           en: Various cups and glasses, including wine glasses and tea cups
+#           de: Verschiedene Tassen und Gläser, einschließlich Weingläser und Teetassen
+    
+#     - item: 
+#           zh: 送一些陪猫玩的玩偶
+#           en: Cat Toys
+#           de: Katzenspielzeug
+#       cover: img/30_送1.jpeg
+#       images:
+#         - img/30_送1.jpeg
+#         - img/30_送2.jpeg
+#         - img/30_送3.jpeg
+#         - img/30_送4.jpeg      
+#       price: 送
+#       description: 
+#           zh: 送一些陪猫玩的玩偶
+#           en: Cat toys, free gift
+#           de: Katzenspielzeug, kostenlos
+    
+#     # 专业书-专业书8
+#     - item: 
+#           zh: 机电一体化专业书
+#           en: Mechatronics Textbooks
+#           de: Mechatronik-Fachbücher
+#       cover: img/专业书1.jpeg
+#       images:
+#         - img/专业书1.jpeg
+#         - img/专业书2.jpeg
+#         - img/专业书3.jpeg
+#         - img/专业书4.jpeg
+#         - img/专业书5.jpeg
+#         - img/专业书6.jpeg
+#         - img/专业书7.jpeg
+#         - img/专业书8.jpeg
+#       price: 送
+#       description: 
+#           zh: 机电一体化专业书，免费赠送
+#           en: Mechatronics textbooks, free gift
+#           de: Mechatronik-Fachbücher, kostenlos
+
+#     - item: 
+#           zh: 书 辛夷坞 原来
+#           en: Book "Originally"
+#           de: Buch "Ursprünglich"
+#       cover: img/book_辛夷坞.jpeg
+#       images:
+#         - img/book_辛夷坞.jpeg
+#       description: 
+#           zh: 辛夷坞《原来》
+#           en: "Originally" by Xin Yiwu, free gift
+#           de: "Ursprünglich" von Xin Yiwu, kostenlos
+#       price: 送
+
+#     - item: 
+#           zh: 书《华氏451》
+#           en: Book "Fahrenheit 451"
+#           de: Buch "Fahrenheit 451"
+#       cover: img/book_华氏451.jpeg
+#       images:
+#         - img/book_华氏451.jpeg
+#       description: 
+#           zh: 著名反乌托邦作品 《华氏451》，虽然不是反乌托邦御三家
+#           en: "Fahrenheit 451", famous dystopian novel
+#           de: "Fahrenheit 451", berühmter dystopischer Roman
+#       price: €2
+
+#     - item: 
+#           zh: 书《普鲁斯特的心脏》
+#           en: Book "Proust's Heart"
+#           de: Buch "Prousts Herz"
+#       cover: img/book_普鲁斯特.jpeg
+#       images:
+#         - img/book_普鲁斯特.jpeg
+#       description: 
+#           zh: 东野圭吾 普鲁斯特的心脏
+#           en: "Proust's Heart" by Keigo Higashino, free gift
+#           de: "Prousts Herz" von Keigo Higashino, kostenlos
+#       price: 送
+
+#     - item: 
+#           zh: 书《冰窠》
+#           en: Book "Ice Nest"
+#           de: Buch "Eisnest"
+#       cover: img/book_冰窠.jpeg
+#       images:
+#         - img/book_冰窠.jpeg
+#       description: 
+#           zh: 冰窠
+#           en: "Ice Nest" by Keigo Higashino, free gift
+#           de: "Eisnest" von Keigo Higashino, kostenlos
+#       price: 送
+    
+#     - item: 
+#           zh: 书《德国史稿》
+#           en: Book "German History"
+#           de: Buch "Deutsche Geschichte"
+#       cover: img/book_德国史稿.jpeg
+#       images:
+#         - img/book_德国史稿.jpeg
+#       description: 
+#           zh: 利奥波德 冯 兰克 德国史稿
+#           en: "German History" by Leopold von Ranke, free gift
+#           de: "Deutsche Geschichte" von Leopold von Ranke, kostenlos
+#       price: 送
+    
+
+#     - item: 
+#           zh: 各种书籍
+#           en: Various Books
+#           de: Verschiedene Bücher
+#       cover: img/0_books.jpeg
+#       images:
+#         - img/0_books.jpeg
+#         - img/0_books.jpeg
+#       price: €1
+#       description: 
+#           zh: 书
+#           en: Various books
+#           de: Verschiedene Bücher
+
 
 
 
