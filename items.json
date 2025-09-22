@@ -132,7 +132,7 @@
         "img/2.8_开发板.jpeg",
         "img/2.8_开发板2.jpeg"
       ],
-      "price": "€1",
+      "price": "€5",
       "description": {
         "zh": "嵌入式爱好者友好的STM32开发板",
         "en": "STM32 development board for embedded enthusiasts",
@@ -282,6 +282,21 @@
     },
     {
       "title": {
+        "zh": "窄窄的柜子",
+        "en": "Narrow Tall Cabinet",
+        "de": "Schmaler hoher Schrank"
+      },
+      "cover": "img/8.3_窄高柜.jpeg",
+      "images": ["img/8.3_窄高柜.jpeg"],
+      "price": "€10",
+      "description": {
+        "zh": "窄窄的、高高的柜子",
+        "en": "Narrow tall cabinet",
+        "de": "Schmaler hoher Schrank"
+      }
+    },
+    {
+      "title": {
         "zh": "只有一个门的柜",
         "en": "Single Door Cabinet",
         "de": "Einflügeliger Schrank"
@@ -299,11 +314,116 @@
     },
     {
       "title": {
+        "zh": "大鞋架",
+        "en": "Large Shoe Rack",
+        "de": "Großes Schuhregal"
+      },
+      "cover": "img/8.1_大鞋架.jpeg",
+      "images": ["img/8.1_大鞋架.jpeg"],
+      "price": "€10",
+      "description": {
+        "zh": "大鞋架",
+        "en": "Large shoe rack",
+        "de": "Großes Schuhregal"
+      }
+    },
+    {
+      "title": {
+        "zh": "矮的鞋架",
+        "en": "White Shoe Rack",
+        "de": "Weißes Schuhregal"
+      },
+      "cover": "img/8_白色鞋架.jpeg",
+      "images": ["img/8_白色鞋架.jpeg"],
+      "price": "€5",
+      "description": {
+        "zh": "矮的鞋架",
+        "en": "White shoe rack, low profile",
+        "de": "Weißes Schuhregal, niedrige Bauweise"
+      }
+    },
+    {
+      "title": {
+        "zh": "衣架",
+        "en": "Clothes Rack",
+        "de": "Kleiderständer"
+      },
+      "cover": "img/9.2_衣架2.jpeg",
+      "images": ["img/9.2_衣架2.jpeg", "img/9.2_衣架.jpeg"],
+      "price": "€10",
+      "description": {
+        "zh": "衣架",
+        "en": "Clothes rack",
+        "de": "Kleiderständer"
+      }
+    },
+    {
+      "title": {
+        "zh": "宜家理线盒",
+        "en": "IKEA Cable Box",
+        "de": "IKEA Kabelbox"
+      },
+      "cover": "img/9_理线盒.jpeg",
+      "images": ["img/9_理线盒.jpeg", "img/9_宜家理线盒2.png"],
+      "price": "€2/个",
+      "description": {
+        "zh": "宜家理线盒，型号ROMMA，两个",
+        "en": "IKEA cable management box, model ROMMA, set of two",
+        "de": "IKEA Kabelmanagement-Box, Modell ROMMA, 2 Stück"
+      }
+    },
+    {
+      "title": {
+        "zh": "打孔器",
+        "en": "Hole Puncher",
+        "de": "Locher"
+      },
+      "cover": "img/10_打孔器.jpeg",
+      "images": ["img/10_打孔器.jpeg"],
+      "price": "€2",
+      "description": {
+        "zh": "没有拍好看起来有点旧的打孔器，配件完整，打孔流程是个闭环",
+        "en": "Hole puncher",
+        "de": "Locher"
+      }
+    },
+    {
+      "title": {
+        "zh": "可以随便塞包里的野餐垫",
+        "en": "Picnic Mat",
+        "de": "Picknickdecke"
+      },
+      "cover": "img/11_野餐垫.jpeg",
+      "images": ["img/11_野餐垫.jpeg"],
+      "price": "€5",
+      "description": {
+        "zh": "可以叠起来变小然后随便塞包里的野餐垫",
+        "en": "Picnic mat, waterproof, foldable",
+        "de": "Picknickdecke, wasserdicht, faltbar"
+      }
+    },
+    {
+      "title": {
+        "zh": "薄垫子",
+        "en": "Thin Mat",
+        "de": "Dünne Matte"
+      },
+      "cover": "img/11.5_垫子.jpeg",
+      "images": ["img/11.5_垫子.jpeg"],
+      "price": "€5",
+      "description": {
+        "zh": "薄垫子，可折叠",
+        "en": "Thin mat, foldable",
+        "de": "Dünne Matte, faltbar"
+      }
+    },
+    {
+      "title": {
         "zh": "宜家小方桌两个",
         "en": "IKEA Small Square Table",
         "de": "IKEA kleiner quadratischer Tisch"
       },
-      "cover": "img/5_宜家小方桌.jpeg",
+      "cover": "img/5_宜家小方桌2.png",
       "images": [
         "img/5_宜家小方桌.jpeg",
         "img/5_宜家小方桌2.png"
@@ -313,40 +433,6 @@
         "zh": "到处都有的宜家小方桌，可以拼接，腿脚完整",
         "en": "IKEA small square tables, set of two",
         "de": "IKEA kleine quadratische Tische, 2 Stück"
-      }
-    },
-    {
-      "title": {
-        "zh": "书 辛夷坞 原来",
-        "en": "Book \"Originally\"",
-        "de": "Buch \"Ursprünglich\""
-      },
-      "cover": "img/book_辛夷坞.jpeg",
-      "images": [
-        "img/book_辛夷坞.jpeg"
-      ],
-      "price": "送",
-      "description": {
-        "zh": "辛夷坞《原来》",
-        "en": "\"Originally\" by Xin Yiwu, free gift",
-        "de": "\"Ursprünglich\" von Xin Yiwu, kostenlos"
-      }
-    },
-    {
-      "title": {
-        "zh": "书《华氏451》",
-        "en": "Book \"Fahrenheit 451\"",
-        "de": "Buch \"Fahrenheit 451\""
-      },
-      "cover": "img/book_华氏451.jpeg",
-      "images": [
-        "img/book_华氏451.jpeg"
-      ],
-      "price": "€2",
-      "description": {
-        "zh": "著名反乌托邦作品 《华氏451》，虽然不是反乌托邦御三家",
-        "en": "\"Fahrenheit 451\", famous dystopian novel",
-        "de": "\"Fahrenheit 451\", berühmter dystopischer Roman"
       }
     },
     {
@@ -416,155 +502,11 @@
         "img/30_送3.jpeg",
         "img/30_送4.jpeg"
       ],
-      "price": "送",
+      "price": "€0",
       "description": {
         "zh": "送一些陪猫玩的玩偶，包括且不限于图中所列",
         "en": "Cat toys, free gift",
         "de": "Katzenspielzeug, kostenlos"
-      }
-    },
-    {
-      "title": {
-        "zh": "机电一体化专业书",
-        "en": "Mechatronics Textbooks",
-        "de": "Mechatronik-Fachbücher"
-      },
-      "cover": "img/专业书1.jpeg",
-      "images": [
-        "img/专业书1.jpeg",
-        "img/专业书2.jpeg",
-        "img/专业书3.jpeg",
-        "img/专业书4.jpeg",
-        "img/专业书5.jpeg",
-        "img/专业书6.jpeg",
-        "img/专业书7.jpeg",
-        "img/专业书8.jpeg"
-      ],
-      "price": "送",
-      "description": {
-        "zh": "机电一体化专业书，免费赠送",
-        "en": "Mechatronics textbooks, free gift",
-        "de": "Mechatronik-Fachbücher, kostenlos"
-      }
-    },
-    {
-      "title": {
-        "zh": "窄窄的柜子",
-        "en": "Narrow Tall Cabinet",
-        "de": "Schmaler hoher Schrank"
-      },
-      "cover": "img/8.3_窄高柜.jpeg",
-      "images": ["img/8.3_窄高柜.jpeg"],
-      "price": "€10",
-      "description": {
-        "zh": "窄窄的、高高的柜子",
-        "en": "Narrow tall cabinet",
-        "de": "Schmaler hoher Schrank"
-      }
-    },
-    {
-      "title": {
-        "zh": "大鞋架",
-        "en": "Large Shoe Rack",
-        "de": "Großes Schuhregal"
-      },
-      "cover": "img/8.1_大鞋架.jpeg",
-      "images": ["img/8.1_大鞋架.jpeg"],
-      "price": "€10",
-      "description": {
-        "zh": "大鞋架",
-        "en": "Large shoe rack",
-        "de": "Großes Schuhregal"
-      }
-    },
-    {
-      "title": {
-        "zh": "矮的鞋架",
-        "en": "White Shoe Rack",
-        "de": "Weißes Schuhregal"
-      },
-      "cover": "img/8_白色鞋架.jpeg",
-      "images": ["img/8_白色鞋架.jpeg"],
-      "price": "€10",
-      "description": {
-        "zh": "矮的鞋架",
-        "en": "White shoe rack, low profile",
-        "de": "Weißes Schuhregal, niedrige Bauweise"
-      }
-    },
-    {
-      "title": {
-        "zh": "衣架",
-        "en": "Clothes Rack",
-        "de": "Kleiderständer"
-      },
-      "cover": "img/9.2_衣架2.jpeg",
-      "images": ["img/9.2_衣架2.jpeg", "img/9.2_衣架.jpeg"],
-      "price": "€10",
-      "description": {
-        "zh": "衣架",
-        "en": "Clothes rack",
-        "de": "Kleiderständer"
-      }
-    },
-    {
-      "title": {
-        "zh": "宜家理线盒",
-        "en": "IKEA Cable Box",
-        "de": "IKEA Kabelbox"
-      },
-      "cover": "img/9_理线盒.jpeg",
-      "images": ["img/9_理线盒.jpeg", "img/9_宜家理线盒2.png"],
-      "price": "€3.5/个",
-      "description": {
-        "zh": "宜家理线盒，型号ROMMA，两个",
-        "en": "IKEA cable management box, model ROMMA, set of two",
-        "de": "IKEA Kabelmanagement-Box, Modell ROMMA, 2 Stück"
-      }
-    },
-    {
-      "title": {
-        "zh": "打孔器",
-        "en": "Hole Puncher",
-        "de": "Locher"
-      },
-      "cover": "img/10_打孔器.jpeg",
-      "images": ["img/10_打孔器.jpeg"],
-      "price": "€2",
-      "description": {
-        "zh": "没有拍好看起来有点旧的打孔器，配件完整，打孔流程是个闭环",
-        "en": "Hole puncher",
-        "de": "Locher"
-      }
-    },
-    {
-      "title": {
-        "zh": "野餐垫",
-        "en": "Picnic Mat",
-        "de": "Picknickdecke"
-      },
-      "cover": "img/11_野餐垫.jpeg",
-      "images": ["img/11_野餐垫.jpeg"],
-      "price": "€5",
-      "description": {
-        "zh": "可以叠起来变小然后随便塞包里的野餐垫",
-        "en": "Picnic mat, waterproof, foldable",
-        "de": "Picknickdecke, wasserdicht, faltbar"
-      }
-    },
-    {
-      "title": {
-        "zh": "薄垫子",
-        "en": "Thin Mat",
-        "de": "Dünne Matte"
-      },
-      "cover": "img/11.5_垫子.jpeg",
-      "images": ["img/11.5_垫子.jpeg"],
-      "price": "€5",
-      "description": {
-        "zh": "薄垫子，可折叠",
-        "en": "Thin mat, foldable",
-        "de": "Dünne Matte, faltbar"
       }
     },
     {
@@ -674,17 +616,75 @@
     },
     {
       "title": {
+        "zh": "机电一体化专业书",
+        "en": "Mechatronics Textbooks",
+        "de": "Mechatronik-Fachbücher"
+      },
+      "cover": "img/专业书1.jpeg",
+      "images": [
+        "img/专业书1.jpeg",
+        "img/专业书2.jpeg",
+        "img/专业书3.jpeg",
+        "img/专业书4.jpeg",
+        "img/专业书5.jpeg",
+        "img/专业书6.jpeg",
+        "img/专业书7.jpeg",
+        "img/专业书8.jpeg"
+      ],
+      "price": "€0",
+      "description": {
+        "zh": "机电一体化专业书，免费赠送",
+        "en": "Mechatronics textbooks, free gift",
+        "de": "Mechatronik-Fachbücher, kostenlos"
+      }
+    },
+    {
+      "title": {
         "zh": "书《普鲁斯特的心脏》",
         "en": "Book \"Proust's Heart\"",
         "de": "Buch \"Prousts Herz\""
       },
       "cover": "img/book_普鲁斯特.jpeg",
       "images": ["img/book_普鲁斯特.jpeg"],
-      "price": "送",
+      "price": "€0",
       "description": {
         "zh": "东野圭吾 普鲁斯特的心脏",
         "en": "\"Proust's Heart\" by Keigo Higashino, free gift",
         "de": "\"Prousts Herz\" von Keigo Higashino, kostenlos"
+      }
+    },
+    {
+      "title": {
+        "zh": "书 辛夷坞 原来",
+        "en": "Book \"Originally\"",
+        "de": "Buch \"Ursprünglich\""
+      },
+      "cover": "img/book_辛夷坞.jpeg",
+      "images": [
+        "img/book_辛夷坞.jpeg"
+      ],
+      "price": "€0",
+      "description": {
+        "zh": "辛夷坞《原来》",
+        "en": "\"Originally\" by Xin Yiwu, free gift",
+        "de": "\"Ursprünglich\" von Xin Yiwu, kostenlos"
+      }
+    },
+    {
+      "title": {
+        "zh": "书《华氏451》",
+        "en": "Book \"Fahrenheit 451\"",
+        "de": "Buch \"Fahrenheit 451\""
+      },
+      "cover": "img/book_华氏451.jpeg",
+      "images": [
+        "img/book_华氏451.jpeg"
+      ],
+      "price": "€2",
+      "description": {
+        "zh": "著名反乌托邦作品 《华氏451》，虽然不是反乌托邦御三家",
+        "en": "\"Fahrenheit 451\", famous dystopian novel",
+        "de": "\"Fahrenheit 451\", berühmter dystopischer Roman"
       }
     },
     {
@@ -695,7 +695,7 @@
       },
       "cover": "img/book_冰窠.jpeg",
       "images": ["img/book_冰窠.jpeg"],
-      "price": "送",
+      "price": "€0",
       "description": {
         "zh": "冰窠",
         "en": "\"Ice Nest\" by Keigo Higashino, free gift",
@@ -710,7 +710,7 @@
       },
       "cover": "img/book_德国史稿.jpeg",
       "images": ["img/book_德国史稿.jpeg"],
-      "price": "送",
+      "price": "€0",
       "description": {
         "zh": "利奥波德 冯 兰克 德国史稿",
         "en": "\"German History\" by Leopold von Ranke, free gift",
