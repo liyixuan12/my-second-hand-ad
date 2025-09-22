@@ -25,11 +25,12 @@ jobs:
           VERSION="${COMMIT_SHA}-${BUILD_TIME}"
           echo "Generated version: $VERSION"
           
-          # 更新所有HTML文件中的资源引用
-          find . -name "*.html" -type f -exec sed -i "s/\(\.css\|\.js\)\(\?v=[^\"']*\)\?/\1?v=$VERSION/g" {} \;
+          # 更新所有HTML文件中的CSS和JS引用
+          find . -name "*.html" -type f -exec sed -i "s/\.css\"/\.css?v=$VERSION\"/g" {} \;
+          find . -name "*.html" -type f -exec sed -i "s/\.js\"/\.js?v=$VERSION\"/g" {} \;
           
-          # 确保script.js中的JSON请求也包含版本号
-          sed -i "s/\(\${jsonPath}\)\(\?v=[^`]*\)\?/\1?v=$VERSION/g" script.js
+          # 更新script.js中的JSON请求
+          sed -i "s/jsonPath);/jsonPath + '?v=$VERSION');/g" script.js
       
       - name: Setup Pages
         uses: actions/configure-pages@v4
