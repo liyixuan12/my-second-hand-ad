@@ -43,7 +43,7 @@
 #             de: Fünf-Tasten-Kabelmaus, Grundmodell
 
 #     - item: 
-#         zh: 办公椅
+#         zh: 透气的椅子
 #         en: Office Chair
 #         de: Bürostuhl
 #       cover: img/2_椅子.jpeg
@@ -611,7 +611,46 @@
 #           en: Various books
 #           de: Verschiedene Bücher
 
+<<<<<<< HEAD
 
 
+=======
+  - item: 书们
+    cover: img/0_books.jpeg
+    images:
+      - img/0_books.jpeg
+      - img/0_books.jpeg
+    price: €1/本
+    description: 德语书可以温习德语，中文书送书签
+
+  
+  - item: 黑色冬帽
+    cover: img/黑帽子.jpg
+    images:
+      - img/黑帽子.jpg
+    price: €5
+    description: 黑色冬帽，保暖，适合冬天戴
+
+  - item: 白色冬帽
+    cover: img/白帽子.jpg
+    images:
+      - img/白帽子.jpg
+    price: €4
+    description: 白色冬帽，保暖，适合冬天戴
+
+  - item: 毛茸茸热水袋
+    cover: img/白色热水袋.jpg
+    images:
+      - img/白色热水袋.jpg
+    price: €2
+    description: 毛茸茸热水袋，保暖，适合冬天抱着，有盖子，密封好，有猫之后没再用过，所以很新，没有猫毛
+
+  - item: 毛绒绒抱枕套
+    cover: img/抱枕套.jpg
+    images:
+      - img/抱枕套.jpg
+    price: €1
+    description: 毛绒绒抱枕套，保暖，没有枕芯
+>>>>>>> bd4ea9f2886cf4220dc9fa99b5308449e83959fe
 
   

@@ -55,7 +55,7 @@
     },
     {
       "title": {
-        "zh": "办公椅",
+        "zh": "透气的椅子",
         "en": "Office Chair",
         "de": "Bürostuhl"
       },
@@ -158,7 +158,7 @@
     },
     {
       "title": {
-        "zh": "白色的好看显示器支架",
+        "zh": "银色的好看显示器支架",
         "en": "White Monitor Stand",
         "de": "Weißer Monitorständer"
       },
@@ -248,7 +248,7 @@
     },
     {
       "title": {
-        "zh": "保存的蛮不错的柜子",
+        "zh": "保存的蛮不错的稳重柜子",
         "en": "Open Shelf Cabinet",
         "de": "Offenes Regal"
       },
@@ -265,7 +265,7 @@
     },
     {
       "title": {
-        "zh": "白色的柜子",
+        "zh": "白色的稳重柜子",
         "en": "Narrow White Cabinet",
         "de": "Schmaler weißer Schrank"
       },
@@ -299,7 +299,7 @@
     },
     {
       "title": {
-        "zh": "宜家小方桌",
+        "zh": "宜家小方桌两个",
         "en": "IKEA Small Square Table",
         "de": "IKEA kleiner quadratischer Tisch"
       },
@@ -310,7 +310,7 @@
       ],
       "price": "€4/个",
       "description": {
-        "zh": "宜家小方桌，两个",
+        "zh": "到处都有的宜家小方桌，可以拼接，腿脚完整",
         "en": "IKEA small square tables, set of two",
         "de": "IKEA kleine quadratische Tische, 2 Stück"
       }
@@ -359,7 +359,7 @@
       "images": [
         "img/15_小包.jpeg"
       ],
-      "price": "€5",
+      "price": "€0",
       "description": {
         "zh": "白色小包",
         "en": "White small bag",
@@ -418,7 +418,7 @@
       ],
       "price": "送",
       "description": {
-        "zh": "送一些陪猫玩的玩偶",
+        "zh": "送一些陪猫玩的玩偶，包括且不限于图中所列",
         "en": "Cat toys, free gift",
         "de": "Katzenspielzeug, kostenlos"
       }
@@ -532,7 +532,7 @@
       "images": ["img/10_打孔器.jpeg"],
       "price": "€2",
       "description": {
-        "zh": "没有拍好看起来有点旧的打孔器",
+        "zh": "没有拍好看起来有点旧的打孔器，配件完整，打孔流程是个闭环",
         "en": "Hole puncher",
         "de": "Locher"
       }
@@ -547,7 +547,7 @@
       "images": ["img/11_野餐垫.jpeg"],
       "price": "€5",
       "description": {
-        "zh": "野餐垫，可折叠",
+        "zh": "可以叠起来变小然后随便塞包里的野餐垫",
         "en": "Picnic mat, waterproof, foldable",
         "de": "Picknickdecke, wasserdicht, faltbar"
       }
@@ -577,14 +577,14 @@
       "images": ["img/12_书立.jpeg"],
       "price": "€1",
       "description": {
-        "zh": "可调节书立，带隔板",
+        "zh": "可调节书立，带隔板，坚挺",
         "en": "Adjustable bookend with dividers",
         "de": "Verstellbare Buchstütze mit Trennwänden"
       }
     },
     {
       "title": {
-        "zh": "双面镜",
+        "zh": "普普通通的镜子",
         "en": "Double-Sided Mirror",
         "de": "Doppelseitiger Spiegel"
       },
@@ -592,7 +592,7 @@
       "images": ["img/13_镜子.jpeg"],
       "price": "€2",
       "description": {
-        "zh": "普普通通的镜子，正反两面都是镜子",
+        "zh": "普普通通的镜子，正反两面都是镜子，但倍数不同",
         "en": "Double-sided mirror",
         "de": "Doppelseitiger Spiegel"
       }
@@ -605,7 +605,7 @@
       },
       "cover": "img/14_化妆品收纳.jpeg",
       "images": ["img/14_化妆品收纳.jpeg"],
-      "price": "€5",
+      "price": "€1",
       "description": {
         "zh": "小的亚克力化妆品收纳盒",
         "en": "Acrylic cosmetic organizer, small size",
@@ -614,7 +614,7 @@
     },
     {
       "title": {
-        "zh": "宠物坐垫送猫爬架",
+        "zh": "蓬松的宠物坐垫，送猫爬架",
         "en": "Pet Cushion",
         "de": "Haustierkissen"
       },
@@ -622,7 +622,7 @@
       "images": ["img/16_宠物坐垫.jpeg"],
       "price": "€3",
       "description": {
-        "zh": "宠物坐垫，送小的猫爬架",
+        "zh": "蓬松的宠物坐垫，没有被猫光顾过的宠物坐垫, 送没有被猫光顾过的猫抓板",
         "en": "Pet cushion, includes small cat tree",
         "de": "Haustierkissen, inklusive kleinem Katzenkratzbaum"
       }
@@ -719,7 +719,7 @@
     },
     {
       "title": {
-        "zh": "各种书籍",
+        "zh": "各种书籍们",
         "en": "Various Books",
         "de": "Verschiedene Bücher"
       },
@@ -727,10 +727,70 @@
       "images": ["img/0_books.jpeg"],
       "price": "€1",
       "description": {
-        "zh": "书",
+        "zh": "德语书可以温习德语，中文书送书签",
         "en": "Various books",
         "de": "Verschiedene Bücher"
       }
-    }
+    },
+    {
+      "title": {
+        "zh": "黑色冬帽",
+        "en": "Black Winter Hat",
+        "de": "Schwarzer Winterhut"
+      },
+      "cover": "img/黑帽子.jpg",
+      "images": ["img/黑帽子.jpg"],
+      "price": "€5",
+      "description": {
+        "zh": "黑色冬帽，保暖，适合冬天戴",
+        "en": "Black winter hat, warm, suitable for winter",
+        "de": "Schwarzer Winterhut, warm, geeignet für Winter"
+      }
+    },
+    {
+      "title": {
+        "zh": "白色冬帽",
+        "en": "White Winter Hat",
+        "de": "Weißer Winterhut"
+      },
+      "cover": "img/白帽子.jpg",
+      "images": ["img/白帽子.jpg"],
+      "price": "€4",
+      "description": {
+        "zh": "白色冬帽，保暖，适合冬天戴",
+        "en": "White winter hat, warm, suitable for winter",
+        "de": "Weißer Winterhut, warm, geeignet für Winter"
+      }
+    },
+    {
+      "title": {
+        "zh": "毛茸茸热水袋",
+        "en": "Furry Hot Water Bag",
+        "de": "Haftiger Heißwassersack"
+      },
+      "cover": "img/白色热水袋.jpg",
+      "images": ["img/白色热水袋.jpg"],
+      "price": "€2",
+      "description": {
+        "zh": "毛茸茸热水袋，保暖，适合冬天抱着，有盖子，密封好，有猫之后没再用过，所以很新，没有猫毛",
+        "en": "Furry hot water bag, warm, suitable for winter, has a lid, sealed well, not used since having a cat, so it's very new, no cat hair",
+        "de": "Haftiger Heißwassersack, warm, geeignet für Winter, hat einen Deckel, gut verschlossen, seitdem ich ein Katze habe, ist er sehr neu, keine Katzenhaare"
+      }
+    },
+    {
+      "title": {
+        "zh": "毛绒绒抱枕套",
+        "en": "Furry Pillow Cover",
+        "de": "Haftiger Kissenbezug"
+      },
+      "cover": "img/抱枕套.jpg",
+      "images": ["img/抱枕套.jpg"],
+      "price": "€0",
+      "description": {
+        "zh": "毛绒绒抱枕套，保暖，没有枕芯",
+        "en": "Furry pillow cover, warm, no pillow芯",
+        "de": "Haftiger Kissenbezug, warm, kein Kissenkern"
+      }
+    }    
   ]
 }
