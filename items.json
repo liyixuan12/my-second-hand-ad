@@ -601,7 +601,7 @@
     },
     {
       "title": {
-        "zh": "桌面收纳盒",
+        "zh": "桌面小物件收纳",
         "en": "Desktop Organizer",
         "de": "Schreibtisch-Organizer"
       },
@@ -609,7 +609,7 @@
       "images": ["img/21_桌上物品收纳.jpeg"],
       "price": "€5",
       "description": {
-        "zh": "桌面收纳盒",
+        "zh": "桌面小物件收纳",
         "en": "Desktop organizer",
         "de": "Schreibtisch-Organizer"
       }
