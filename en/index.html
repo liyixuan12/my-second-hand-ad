@@ -5,9 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Darmstadt Second Hand - English</title>
     <link rel="stylesheet" href="../style.css">
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
 </head>
 <body>
     <header>
@@ -52,16 +49,7 @@
 
     <script>
         window.currentLanguage = 'en';
-        // 动态加载带版本号的CSS和JS，避免缓存问题
-        const timestamp = new Date().getTime();
-        document.querySelector('link[rel="stylesheet"]').href = '../style.css?v=' + timestamp;
     </script>
     <script src="../script.js"></script>
-    <script>
-        // 为script.js也添加缓存破坏
-        const scriptElement = document.createElement('script');
-        scriptElement.src = '../script.js?v=' + new Date().getTime();
-        document.head.appendChild(scriptElement);
-    </script>
 </body>
 </html>
