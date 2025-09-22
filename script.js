@@ -67,7 +67,9 @@ async function loadItemsData() {
                         window.location.pathname.includes('/en/') || 
                         window.location.pathname.includes('/de/') ? 
                         '../items.json' : 'items.json';
-        const jsonResponse = await fetch(jsonPath);
+        // 添加时间戳参数避免缓存问题
+        const timestamp = new Date().getTime();
+        const jsonResponse = await fetch(`${jsonPath}?v=${timestamp}`);
         
         if (!jsonResponse.ok) {
             throw new Error(`HTTP error! status: ${jsonResponse.status}`);
