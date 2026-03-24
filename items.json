@@ -104,23 +104,23 @@
       }
     },
     {
-      "title": {
-        "zh": "电视 + 电视柜 + Fire TV（整套出售）",
-        "en": "TV + TV Cabinet + Fire TV (Full Set)",
-        "de": "Fernseher + TV-Schrank + Fire TV (Komplett)"
-      },
-      "cover": "img/电视带firetv_30欧.jpg",
-      "images": [
-        "img/电视带firetv_30欧.jpg",
-        "img/电视加电视柜.jpg"
-      ],
-      "price": "€30",
-      "description": {
-        "zh": "电视、电视柜和 Fire TV 一起出售，整体状态良好。物品较重，需自取。",
-        "en": "TV, cabinet, and Fire TV sold together in good condition. Quite heavy, pickup only.",
-        "de": "Fernseher, TV-Schrank und Fire TV zusammen in gutem Zustand. Relativ schwer, nur Abholung."
-      }
-    },
+  "title": {
+    "zh": "电视 + 电视柜 + Fire TV（整套出售）",
+    "en": "TV + TV Cabinet + Fire TV (Full Set)",
+    "de": "Fernseher + TV-Schrank + Fire TV (Komplett)"
+  },
+  "cover": "img/电视带firetv_30欧.jpg",
+  "images": [
+    "img/电视带firetv_30欧.jpg",
+    "img/电视加电视柜.jpg"
+  ],
+  "price": "€30",
+  "description": {
+    "zh": "电视、电视柜和 Fire TV 一起出售，整体状态良好。物品较重，需自取。",
+    "en": "TV, cabinet, and Fire TV sold together in good condition. Quite heavy, pickup only.",
+    "de": "Fernseher, TV-Schrank und Fire TV zusammen in gutem Zustand. Relativ schwer, nur Abholung."
+  }
+},
     {
       "title": {
         "zh": "黑色旋转椅",
