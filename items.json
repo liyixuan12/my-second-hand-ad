@@ -105,21 +105,22 @@
     },
     {
       "title": {
-        "zh": "电视（带 Fire TV）",
-        "en": "TV with Fire TV",
-        "de": "Fernseher mit Fire TV"
+        "zh": "电视 + 电视柜 + Fire TV（整套出售）",
+        "en": "TV + TV Cabinet + Fire TV (Full Set)",
+        "de": "Fernseher + TV-Schrank + Fire TV (Komplett)"
       },
       "cover": "img/电视带firetv_30欧.jpg",
       "images": [
-        "img/电视带firetv_30欧.jpg"
+        "img/电视带firetv_30欧.jpg",
+        "img/电视加电视柜.jpg"
       ],
       "price": "€30",
       "description": {
-        "zh": "适合宿舍或小户型使用，带 Fire TV 功能。",
-        "en": "Suitable for dorms or small apartments, comes with Fire TV.",
-        "de": "Geeignet für Wohnheim oder kleine Wohnung, mit Fire TV."
+        "zh": "电视、电视柜和 Fire TV 一起出售，整体状态良好。物品较重，需自取。",
+        "en": "TV, cabinet, and Fire TV sold together in good condition. Quite heavy, pickup only.",
+        "de": "Fernseher, TV-Schrank und Fire TV zusammen in gutem Zustand. Relativ schwer, nur Abholung."
       }
-    },
+    }
     {
       "title": {
         "zh": "黑色旋转椅",
@@ -1230,90 +1231,38 @@
       }
     },
     {
-      "title": {
-        "zh": "电视加电视柜",
-        "en": "TV with TV Cabinet",
-        "de": "Fernseher mit TV-Schrank"
-      },
-      "cover": "img/电视加电视柜.jpg",
-      "images": [
-        "img/电视加电视柜.jpg"
-      ],
-      "price": "待定",
-      "description": {
-        "zh": "电视与电视柜一起出售，价格可商量。",
-        "en": "TV and cabinet sold together, price to be confirmed.",
-        "de": "Fernseher und TV-Schrank zusammen, Preis noch offen."
-      }
-    },
-    {
-      "title": {
-        "zh": "铁质衣帽架",
-        "en": "Metal Coat Rack",
-        "de": "Metall-Garderobenständer"
-      },
-      "cover": "img/铁质衣帽架.jpg",
-      "images": [
-        "img/铁质衣帽架.jpg",
-        "img/铁质衣帽架2.jpg"
-      ],
-      "price": "待定",
-      "description": {
-        "zh": "适合挂衣服、包和帽子，价格待确认。",
-        "en": "Suitable for clothes, bags, and hats, price to be confirmed.",
-        "de": "Geeignet für Kleidung, Taschen und Hüte, Preis noch offen."
-      }
-    },
-    {
-      "title": {
-        "zh": "颈枕",
-        "en": "Neck Pillow",
-        "de": "Nackenkissen"
-      },
-      "cover": "img/颈枕2.jpg",
-      "images": [
-        "img/颈枕2.jpg"
-      ],
-      "price": "待定",
-      "description": {
-        "zh": "适合旅行或午休使用，价格待确认。",
-        "en": "Suitable for travel or naps, price to be confirmed.",
-        "de": "Geeignet für Reisen oder kurze Pausen, Preis noch offen."
-      }
-    },
-    {
-      "title": {
-        "zh": "商品待确认 1",
-        "en": "Item to Confirm 1",
-        "de": "Artikel noch zu prüfen 1"
-      },
-      "cover": "img/IMG_3235.jpg",
-      "images": [
-        "img/IMG_3235.jpg"
-      ],
-      "price": "待定",
-      "description": {
-        "zh": "该商品名称和价格待补充。",
-        "en": "Item name and price need to be confirmed.",
-        "de": "Name und Preis dieses Artikels müssen noch ergänzt werden."
-      }
-    },
-    {
-      "title": {
-        "zh": "商品待确认 2",
-        "en": "Item to Confirm 2",
-        "de": "Artikel noch zu prüfen 2"
-      },
-      "cover": "img/IMG_3274.jpg",
-      "images": [
-        "img/IMG_3274.jpg"
-      ],
-      "price": "待定",
-      "description": {
-        "zh": "该商品名称和价格待补充。",
-        "en": "Item name and price need to be confirmed.",
-        "de": "Name und Preis dieses Artikels müssen noch ergänzt werden."
-      }
-    }
-  ]
+  "title": {
+    "zh": "铁质衣帽架",
+    "en": "Metal Coat Rack",
+    "de": "Metall-Garderobenständer"
+  },
+  "cover": "img/铁质衣帽架.jpg",
+  "images": [
+    "img/铁质衣帽架.jpg",
+    "img/铁质衣帽架2.jpg"
+  ],
+  "price": "€5",
+  "description": {
+    "zh": "底部较重，非常稳，可以挂较重的衣物或包，适合日常使用，自取。",
+    "en": "Heavy base and very stable, can hold heavier clothes or bags. Pickup only.",
+    "de": "Schwerer Standfuß und sehr stabil, geeignet für schwere Kleidung oder Taschen. Nur Abholung."
+  }
 }
+    {
+  "title": {
+    "zh": "颈椎按摩拉伸枕",
+    "en": "Neck Massage & Stretching Pillow",
+    "de": "Nacken-Massage- und Dehnungskissen"
+  },
+  "cover": "img/颈枕2.jpg",
+  "images": [
+    "img/颈枕2.jpg"
+  ],
+  "price": "€2",
+  "description": {
+    "zh": "用于颈部放松和拉伸，带按摩凸点，适合长时间低头或久坐人群使用。",
+    "en": "Designed for neck relaxation and stretching, with massage nodes. Suitable for people who sit long hours or use phones frequently.",
+    "de": "Zur Entspannung und Dehnung des Nackens, mit Massagepunkten. Ideal für Personen, die lange sitzen oder viel aufs Handy schauen."
+  }
+}
+ 
