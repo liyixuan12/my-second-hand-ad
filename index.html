@@ -23,7 +23,7 @@
 
         .language-selector {
             text-align: center;
-            max-width: 600px;
+            max-width: 700px;
             padding: 2rem;
         }
 
@@ -36,7 +36,14 @@
 
         .subtitle {
             font-size: 1.2rem;
-            margin-bottom: 3rem;
+            margin-bottom: 1rem;
+            opacity: 0.95;
+            line-height: 1.6;
+        }
+
+        .info {
+            font-size: 1rem;
+            margin-bottom: 2.5rem;
             opacity: 0.9;
             line-height: 1.6;
         }
@@ -79,7 +86,7 @@
 
         .language-desc {
             font-size: 1rem;
-            opacity: 0.8;
+            opacity: 0.85;
             line-height: 1.4;
         }
 
@@ -87,12 +94,12 @@
             .main-title {
                 font-size: 2.5rem;
             }
-            
+
             .language-options {
                 grid-template-columns: 1fr;
                 gap: 1.5rem;
             }
-            
+
             .language-selector {
                 padding: 1rem;
             }
@@ -102,7 +109,7 @@
             .main-title {
                 font-size: 2rem;
             }
-            
+
             .language-card {
                 padding: 1.5rem;
             }
@@ -112,27 +119,32 @@
 <body>
     <div class="language-selector">
         <h1 class="main-title">达姆出二手</h1>
+
         <p class="subtitle">
-            首页
+            选择语言 / Choose Your Language / Sprache wählen
         </p>
-        
+
+        <p class="info">
+            📍 Darmstadt ｜ All items are pickup only ｜ WhatsApp: +49 XXX XXX XXXX
+        </p>
+
         <div class="language-options">
             <a href="zh/" class="language-card">
                 <span class="language-flag">🇨🇳</span>
-                <div class="language-name">zh</div>
-                <div class="language-desc">zh</div>
+                <div class="language-name">中文</div>
+                <div class="language-desc">查看中文商品页面</div>
             </a>
-            
+
             <a href="en/" class="language-card">
                 <span class="language-flag">🇬🇧</span>
                 <div class="language-name">English</div>
-                <div class="language-desc">En</div>
+                <div class="language-desc">Browse items in English</div>
             </a>
-            
+
             <a href="de/" class="language-card">
                 <span class="language-flag">🇩🇪</span>
                 <div class="language-name">Deutsch</div>
-                <div class="language-desc">De</div>
+                <div class="language-desc">Artikel auf Deutsch ansehen</div>
             </a>
         </div>
     </div>
