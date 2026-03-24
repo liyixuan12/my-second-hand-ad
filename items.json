@@ -2,9 +2,9 @@
   "items": [
     {
       "title": {
-        "zh": "显示器（Huawei AD80HW + HP V284k，送机械臂）",
-        "en": "Monitors (Huawei AD80HW + HP V284k, with monitor arm)",
-        "de": "Monitore (Huawei AD80HW + HP V284k, mit Monitorarm)"
+        "zh": "显示器（Huawei AD80HW + HP V284k，买两台送机械臂）",
+        "en": "Monitors (Huawei AD80HW + HP V284k, buy both and get monitor arm free)",
+        "de": "Monitore (Huawei AD80HW + HP V284k, beim Kauf beider Monitore gratis Monitorarm)"
       },
       "cover": "img/显示器（huawei AD80HW+ HP V284k）_150欧送机械臂.jpg",
       "images": [
@@ -12,46 +12,48 @@
       ],
       "price": "€150",
       "description": {
-        "zh": "两台显示器一起出售，并附送机械臂，适合办公或学习使用。",
-        "en": "Two monitors sold together with a monitor arm, suitable for work or study.",
-        "de": "Zwei Monitore zusammen mit Monitorarm, ideal für Arbeit oder Studium."
+        "zh": "两台一起买 €150，送机械臂。也可单买：华为 €70，HP V28 €100。",
+        "en": "Buy both for €150 and get the monitor arm for free. Also available separately: Huawei €70, HP V28 €100.",
+        "de": "Beide zusammen für 150 € inkl. gratis Monitorarm. Auch einzeln erhältlich: Huawei 70 €, HP V28 100 €."
       }
-    },
-    {
-      "title": {
-        "zh": "Comfee 空调",
-        "en": "Comfee Air Conditioner",
-        "de": "Comfee Klimaanlage"
-      },
-      "cover": "img/comfee空调80.jpg",
-      "images": [
-        "img/comfee空调80.jpg"
-      ],
-      "price": "€80",
-      "description": {
-        "zh": "制冷效果好，适合夏天使用，自取优先。",
-        "en": "Works well for cooling, great for summer, pickup preferred.",
-        "de": "Gute Kühlleistung, ideal für den Sommer, Abholung bevorzugt."
-      }
-    },
-    {
-      "title": {
-        "zh": "滑板",
-        "en": "Skateboard",
-        "de": "Skateboard"
-      },
-      "cover": "img/滑板40欧.jpg",
-      "images": [
-        "img/滑板40欧.jpg",
-        "img/滑板2.jpg"
-      ],
-      "price": "€40",
-      "description": {
-        "zh": "状态良好，适合日常代步或娱乐。",
-        "en": "Good condition, suitable for commuting or leisure.",
-        "de": "Guter Zustand, geeignet für Freizeit oder kurze Strecken."
-      }
-    },
+    }
+  ]
+},
+  {
+  "title": {
+    "zh": "Comfee 空调",
+    "en": "Comfee Air Conditioner",
+    "de": "Comfee Klimaanlage"
+  },
+  "cover": "img/comfee空调80.jpg",
+  "images": [
+    "img/comfee空调80.jpg"
+  ],
+  "price": "€80",
+  "description": {
+    "zh": "制冷效果好，夏天必备。",
+    "en": "Good cooling performance, perfect for summer.",
+    "de": "Gute Kühlleistung, ideal für den Sommer."
+  }
+},
+{
+  "title": {
+    "zh": "滑板",
+    "en": "Skateboard",
+    "de": "Skateboard"
+  },
+  "cover": "img/滑板40欧.jpg",
+  "images": [
+    "img/滑板40欧.jpg",
+    "img/滑板2.jpg"
+  ],
+  "price": "€40",
+  "description": {
+    "zh": "仅使用3次，几乎全新，市中心滑板店购入。",
+    "en": "Used only 3 times, almost like new, bought from a skate shop in the city center.",
+    "de": "Nur 3-mal benutzt, fast wie neu, im Skate-Shop in der Innenstadt gekauft."
+  }
+},
     {
       "title": {
         "zh": "小米家庭 KTV",
@@ -121,40 +123,40 @@
     "de": "Fernseher, TV-Schrank und Fire TV zusammen in gutem Zustand. Relativ schwer, nur Abholung."
   }
 },
-    {
-      "title": {
-        "zh": "黑色旋转椅",
-        "en": "Black Swivel Chair",
-        "de": "Schwarzer Drehstuhl"
-      },
-      "cover": "img/黑色旋转椅_25欧.jpg",
-      "images": [
-        "img/黑色旋转椅_25欧.jpg"
-      ],
-      "price": "€25",
-      "description": {
-        "zh": "舒适实用，适合办公或书桌使用。",
-        "en": "Comfortable and practical, suitable for office or desk use.",
-        "de": "Bequem und praktisch, ideal für Büro oder Schreibtisch."
-      }
-    },
-    {
-      "title": {
-        "zh": "苹果三合一充电器",
-        "en": "Apple 3-in-1 Charger",
-        "de": "Apple 3-in-1 Ladegerät"
-      },
-      "cover": "img/苹果三合一充电器15欧.jpg",
-      "images": [
-        "img/苹果三合一充电器15欧.jpg"
-      ],
-      "price": "€15",
-      "description": {
-        "zh": "适合同时给多个苹果设备充电。",
-        "en": "Convenient for charging multiple Apple devices at once.",
-        "de": "Praktisch zum gleichzeitigen Laden mehrerer Apple-Geräte."
-      }
-    },
+ {
+  "title": {
+    "zh": "黑色人体工学旋转椅（可躺可直立）",
+    "en": "Ergonomic Black Swivel Chair (Reclining)",
+    "de": "Ergonomischer schwarzer Drehstuhl (verstellbar, mit Liegefunktion)"
+  },
+  "cover": "img/黑色旋转椅_25欧.jpg",
+  "images": [
+    "img/黑色旋转椅_25欧.jpg"
+  ],
+  "price": "€25",
+  "description": {
+    "zh": "人体工学设计，可躺可直立，坐着很舒服。",
+    "en": "Ergonomic design, can recline or sit upright, very comfortable.",
+    "de": "Ergonomisches Design, verstellbar bis zur Liegeposition, sehr bequem."
+  }
+},
+{
+  "title": {
+    "zh": "苹果三件套三合一充电器（全新）",
+    "en": "Apple 3-in-1 Charger (Brand New)",
+    "de": "Apple 3-in-1 Ladegerät (Neu)"
+  },
+  "cover": "img/苹果三合一充电器15欧.jpg",
+  "images": [
+    "img/苹果三合一充电器15欧.jpg"
+  ],
+  "price": "€15",
+  "description": {
+    "zh": "苹果三件套充电器，全新未使用。",
+    "en": "Apple 3-in-1 charger, brand new.",
+    "de": "Apple 3-in-1 Ladegerät, neu und unbenutzt."
+  }
+},
     {
       "title": {
         "zh": "蹦床",
@@ -292,58 +294,58 @@
         "de": "Geeignet für Schlafzimmer oder neben dem Schreibtisch."
       }
     },
-    {
-      "title": {
-        "zh": "防滑瑜伽垫",
-        "en": "Non-Slip Yoga Mat",
-        "de": "Rutschfeste Yogamatte"
-      },
-      "cover": "img/防滑瑜伽垫8欧.jpg",
-      "images": [
-        "img/防滑瑜伽垫8欧.jpg"
-      ],
-      "price": "€8",
-      "description": {
-        "zh": "适合瑜伽、拉伸和居家锻炼。",
-        "en": "Suitable for yoga, stretching, and home workouts.",
-        "de": "Geeignet für Yoga, Stretching und Heimtraining."
-      }
-    },
-    {
-      "title": {
-        "zh": "9 格拼接柜",
-        "en": "9-Cube Storage Cabinet",
-        "de": "9-Fächer-Regal"
-      },
-      "cover": "img/9格拼接柜_8欧.jpg",
-      "images": [
-        "img/9格拼接柜_8欧.jpg",
-        "img/9格拼接柜2.jpg"
-      ],
-      "price": "€8",
-      "description": {
-        "zh": "适合分类收纳，轻便实用。",
-        "en": "Practical for organized storage.",
-        "de": "Praktisch für geordnete Aufbewahrung."
-      }
-    },
-    {
-      "title": {
-        "zh": "木质收纳柜",
-        "en": "Wooden Storage Cabinet",
-        "de": "Holzschrank zur Aufbewahrung"
-      },
-      "cover": "img/木质收纳柜_7欧.jpg",
-      "images": [
-        "img/木质收纳柜_7欧.jpg"
-      ],
-      "price": "€7",
-      "description": {
-        "zh": "木质外观，适合家居收纳使用。",
-        "en": "Wooden storage cabinet suitable for home use.",
-        "de": "Holzschrank, ideal für die Aufbewahrung zu Hause."
-      }
-    },
+{
+  "title": {
+    "zh": "防滑瑜伽垫（几乎全新）",
+    "en": "Non-Slip Yoga Mat (Like New)",
+    "de": "Rutschfeste Yogamatte (Fast wie neu)"
+  },
+  "cover": "img/防滑瑜伽垫8欧.jpg",
+  "images": [
+    "img/防滑瑜伽垫8欧.jpg"
+  ],
+  "price": "€8",
+  "description": {
+    "zh": "仅使用一次，几乎全新，适合瑜伽和居家锻炼。",
+    "en": "Used only once, almost like new, perfect for yoga and home workouts.",
+    "de": "Nur einmal benutzt, fast wie neu, ideal für Yoga und Heimtraining."
+  }
+},
+   {
+  "title": {
+    "zh": "9格拼接收纳柜",
+    "en": "9-Cube Storage Cabinet",
+    "de": "9-Fächer-Regal"
+  },
+  "cover": "img/9格拼接柜_8欧.jpg",
+  "images": [
+    "img/9格拼接柜_8欧.jpg",
+    "img/9格拼接柜2.jpg"
+  ],
+  "price": "€8",
+  "description": {
+    "zh": "放鞋或杂物非常合适，轻便实用。",
+    "en": "Great for storing shoes or miscellaneous items, lightweight and practical.",
+    "de": "Ideal für Schuhe oder Kleinteile, leicht und praktisch."
+  }
+},
+ {
+  "title": {
+    "zh": "木质艺术收纳柜（斜拉设计）",
+    "en": "Wooden Storage Cabinet (Artistic Design)",
+    "de": "Holzregal mit kreativem Design"
+  },
+  "cover": "img/木质收纳柜_7欧.jpg",
+  "images": [
+    "img/木质收纳柜_7欧.jpg"
+  ],
+  "price": "€7",
+  "description": {
+    "zh": "造型很有艺术感，斜拉储物空间充足，实用又好看。",
+    "en": "Artistic design with angled storage space, both practical and stylish.",
+    "de": "Kreatives Design mit schrägem Stauraum, praktisch und stilvoll."
+  }
+},
     {
       "title": {
         "zh": "Vlog 录制神器",
