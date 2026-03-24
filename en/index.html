@@ -3,13 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Darmstadt Second Hand - English</title>
+    <title>Darmstadt Second Hand</title>
     <link rel="stylesheet" href="../style.css">
 </head>
 <body>
     <header>
         <h1>Darmstadt Second Hand</h1>
-        <p>Click on items to view details. Contact me if interested</p>
+
+        <p>📍 Darmstadt | Pickup only | WhatsApp: +49 XXX XXX XXXX</p>
+
+        <p>Click on items for details</p>
+
         <div class="language-switcher">
             <a href="../zh/">中文</a>
             <a href="../en/" class="active">English</a>
@@ -19,7 +23,6 @@
 
     <main>
         <div class="gallery-container" id="gallery-container">
-            <!-- Items will be loaded dynamically via JavaScript -->
             <div class="loading">Loading...</div>
         </div>
     </main>
@@ -34,14 +37,11 @@
                     <p id="modal-price" class="modal-price"></p>
                     <p id="modal-description" class="modal-description"></p>
                 </div>
-                <div class="modal-images-container" id="modal-images-container">
-                    <!-- Images will be added dynamically via JavaScript -->
-                </div>
+                <div class="modal-images-container" id="modal-images-container"></div>
             </div>
         </div>
     </div>
 
-    <!-- Fullscreen image viewer -->
     <div id="fullscreen-overlay" class="fullscreen-overlay">
         <div class="fullscreen-close">&times;</div>
         <img id="fullscreen-image" class="fullscreen-image" src="" alt="">
