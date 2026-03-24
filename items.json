@@ -116,9 +116,9 @@
   ],
   "price": "€30",
   "description": {
-    "zh": "电视、电视柜和 Fire TV 一起出售，整体状态良好。物品较重，需自取。",
-    "en": "TV, cabinet, and Fire TV sold together in good condition. Quite heavy, pickup only.",
-    "de": "Fernseher, TV-Schrank und Fire TV zusammen in gutem Zustand. Relativ schwer, nur Abholung."
+    "zh": "电视、电视柜和 Fire TV 整套出售，整体状态良好。",
+    "en": "TV, TV cabinet, and Fire TV sold together in good condition.",
+    "de": "Fernseher, TV-Schrank und Fire TV werden zusammen verkauft, alles in gutem Zustand."
   }
 },
  {
@@ -684,23 +684,23 @@
         "de": "Für tägliche Abkühlung geeignet."
       }
     },
-    {
-      "title": {
-        "zh": "0.5 小哑铃",
-        "en": "0.5kg Dumbbells",
-        "de": "0,5kg Hanteln"
-      },
-      "cover": "img/0.5小哑铃5欧.jpg",
-      "images": [
-        "img/0.5小哑铃5欧.jpg"
-      ],
-      "price": "€5",
-      "description": {
-        "zh": "适合初学者和轻量训练。",
-        "en": "Suitable for beginners and light exercise.",
-        "de": "Geeignet für Anfänger und leichtes Training."
-      }
-    },
+{
+  "title": {
+    "zh": "0.5kg 小哑铃",
+    "en": "0.5kg Dumbbells",
+    "de": "0,5kg Hanteln"
+  },
+  "cover": "img/0.5小哑铃5欧.jpg",
+  "images": [
+    "img/0.5小哑铃5欧.jpg"
+  ],
+  "price": "€5",
+  "description": {
+    "zh": "适合有氧、负重训练和跑步使用。",
+    "en": "Suitable for cardio, weighted training, and running.",
+    "de": "Geeignet für Cardio-, Gewichtstraining und Laufen."
+  }
+},
     {
       "title": {
         "zh": "床桌",
@@ -1033,23 +1033,7 @@
       },
       "cover": "img/折叠椅1_3欧.jpg",
       "images": [
-        "img/折叠椅1_3欧.jpg"
-      ],
-      "price": "€3",
-      "description": {
-        "zh": "轻便实用，方便收纳。",
-        "en": "Lightweight, practical, and easy to store.",
-        "de": "Leicht, praktisch und einfach zu verstauen."
-      }
-    },
-    {
-      "title": {
-        "zh": "折叠椅 2",
-        "en": "Folding Chair 2",
-        "de": "Klappstuhl 2"
-      },
-      "cover": "img/折叠椅2_3欧.jpg",
-      "images": [
+        "img/折叠椅1_3欧.jpg",
         "img/折叠椅2_3欧.jpg"
       ],
       "price": "€3",
