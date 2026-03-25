@@ -175,6 +175,23 @@
     },
     {
       "title": {
+        "zh": "70×50 桌子（可做宿舍延长桌）",
+        "en": "70×50cm Table (great as dorm extension desk)",
+        "de": "70×50cm Tisch (ideal als Verlängerungstisch im Wohnheim)"
+      },
+      "cover": "img/70乘50桌子，可做学生宿舍延长桌质量很好15欧.jpg",
+      "images": [
+        "img/70乘50桌子，可做学生宿舍延长桌质量很好15欧.jpg"
+      ],
+      "price": "€15",
+      "description": {
+        "zh": "70×50cm，质量很好，可做学生宿舍延长桌使用。",
+        "en": "70×50cm, high quality, great as an extension desk for student dorms.",
+        "de": "70×50cm, gute Qualität, ideal als Verlängerungstisch im Studentenwohnheim."
+      }
+    },
+    {
+      "title": {
         "zh": "宜家 4 格柜（送盒子）",
         "en": "IKEA 4-Compartment Shelf (with boxes)",
         "de": "IKEA 4-Fächer-Regal (mit Boxen)"
@@ -329,6 +346,23 @@
     },
     {
       "title": {
+        "zh": "踏步台阶",
+        "en": "Step Platform",
+        "de": "Steppbrett"
+      },
+      "cover": "img/踏步台阶8欧.jpg",
+      "images": [
+        "img/踏步台阶8欧.jpg"
+      ],
+      "price": "€8",
+      "description": {
+        "zh": "适合居家健身和有氧运动。",
+        "en": "Suitable for home fitness and aerobic exercise.",
+        "de": "Geeignet für Heimfitness und Aerobic-Übungen."
+      }
+    },
+    {
+      "title": {
         "zh": "Cecotec 体脂秤",
         "en": "Cecotec Body Scale",
         "de": "Cecotec Körperfettwaage"
@@ -410,6 +444,23 @@
         "zh": "适合拍摄 vlog 或短视频使用。",
         "en": "Suitable for vlogging and short video recording.",
         "de": "Geeignet für Vlogs und kurze Videoaufnahmen."
+      }
+    },
+    {
+      "title": {
+        "zh": "台灯",
+        "en": "Desk Lamp",
+        "de": "Tischlampe"
+      },
+      "cover": "img/台灯5欧.jpg",
+      "images": [
+        "img/台灯5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "适合书桌或床头照明使用。",
+        "en": "Suitable for desk or bedside lighting.",
+        "de": "Geeignet für Schreibtisch- oder Nachttischbeleuchtung."
       }
     },
     {
