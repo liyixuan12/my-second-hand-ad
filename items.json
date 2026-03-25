@@ -2,9 +2,9 @@
   "items": [
     {
       "title": {
-        "zh": "显示器（Huawei AD80HW + HP V284k，买两台送机械臂）",
-        "en": "Monitors (Huawei AD80HW + HP V284k, buy both and get monitor arm free)",
-        "de": "Monitore (Huawei AD80HW + HP V284k, beim Kauf beider Monitore gratis Monitorarm)"
+        "zh": "显示器（Huawei AD80HW + HP V284k，送机械臂）",
+        "en": "Monitors (Huawei AD80HW + HP V284k, with monitor arm)",
+        "de": "Monitore (Huawei AD80HW + HP V284k, mit Monitorarm)"
       },
       "cover": "img/显示器（huawei AD80HW+ HP V284k）_150欧送机械臂.jpg",
       "images": [
@@ -12,46 +12,46 @@
       ],
       "price": "€150",
       "description": {
-        "zh": "两台一起买 €150，送机械臂。也可单买：华为 €70，HP V28 €100。",
-        "en": "Buy both for €150 and get the monitor arm for free. Also available separately: Huawei €70, HP V28 €100.",
-        "de": "Beide zusammen für 150 € inkl. gratis Monitorarm. Auch einzeln erhältlich: Huawei 70 €, HP V28 100 €."
+        "zh": "两台显示器一起出售，并附送机械臂，适合办公或学习使用。",
+        "en": "Two monitors sold together with a monitor arm, suitable for work or study.",
+        "de": "Zwei Monitore zusammen mit Monitorarm, ideal für Arbeit oder Studium."
       }
-},
-  {
-  "title": {
-    "zh": "Comfee 空调",
-    "en": "Comfee Air Conditioner",
-    "de": "Comfee Klimaanlage"
-  },
-  "cover": "img/comfee空调80.jpg",
-  "images": [
-    "img/comfee空调80.jpg"
-  ],
-  "price": "€80",
-  "description": {
-    "zh": "制冷效果好，夏天必备。",
-    "en": "Good cooling performance, perfect for summer.",
-    "de": "Gute Kühlleistung, ideal für den Sommer."
-  }
-},
-{
-  "title": {
-    "zh": "滑板",
-    "en": "Skateboard",
-    "de": "Skateboard"
-  },
-  "cover": "img/滑板40欧.jpg",
-  "images": [
-    "img/滑板40欧.jpg",
-    "img/滑板2.jpg"
-  ],
-  "price": "€40",
-  "description": {
-    "zh": "仅使用3次，几乎全新，市中心滑板店购入。",
-    "en": "Used only 3 times, almost like new, bought from a skate shop in the city center.",
-    "de": "Nur 3-mal benutzt, fast wie neu, im Skate-Shop in der Innenstadt gekauft."
-  }
-},
+    },
+    {
+      "title": {
+        "zh": "Comfee 空调",
+        "en": "Comfee Air Conditioner",
+        "de": "Comfee Klimaanlage"
+      },
+      "cover": "img/comfee空调80.jpg",
+      "images": [
+        "img/comfee空调80.jpg"
+      ],
+      "price": "€80",
+      "description": {
+        "zh": "制冷效果好，适合夏天使用，自取优先。",
+        "en": "Works well for cooling, great for summer, pickup preferred.",
+        "de": "Gute Kühlleistung, ideal für den Sommer, Abholung bevorzugt."
+      }
+    },
+    {
+      "title": {
+        "zh": "滑板",
+        "en": "Skateboard",
+        "de": "Skateboard"
+      },
+      "cover": "img/滑板40欧.jpg",
+      "images": [
+        "img/滑板40欧.jpg",
+        "img/滑板2.jpg"
+      ],
+      "price": "€40",
+      "description": {
+        "zh": "状态良好，适合日常代步或娱乐。",
+        "en": "Good condition, suitable for commuting or leisure.",
+        "de": "Guter Zustand, geeignet für Freizeit oder kurze Strecken."
+      }
+    },
     {
       "title": {
         "zh": "小米家庭 KTV",
@@ -88,6 +88,24 @@
     },
     {
       "title": {
+        "zh": "电视 + 电视柜 + Fire TV（整套出售）",
+        "en": "TV + TV Cabinet + Fire TV (Full Set)",
+        "de": "Fernseher + TV-Schrank + Fire TV (Komplett)"
+      },
+      "cover": "img/电视带firetv_30欧.jpg",
+      "images": [
+        "img/电视带firetv_30欧.jpg",
+        "img/电视加电视柜.jpg"
+      ],
+      "price": "€30",
+      "description": {
+        "zh": "电视、电视柜和 Fire TV 一起出售，整体状态良好。物品较重，需自取。",
+        "en": "TV, cabinet, and Fire TV sold together in good condition. Quite heavy, pickup only.",
+        "de": "Fernseher, TV-Schrank und Fire TV zusammen in gutem Zustand. Relativ schwer, nur Abholung."
+      }
+    },
+    {
+      "title": {
         "zh": "Canon TS5300 打印机（送魔盒）",
         "en": "Canon TS5300 Printer (with extra box)",
         "de": "Canon TS5300 Drucker (mit Zusatzbox)"
@@ -104,57 +122,39 @@
       }
     },
     {
-  "title": {
-    "zh": "电视 + 电视柜 + Fire TV（整套出售）",
-    "en": "TV + TV Cabinet + Fire TV (Full Set)",
-    "de": "Fernseher + TV-Schrank + Fire TV (Komplett)"
-  },
-  "cover": "img/电视带firetv_30欧.jpg",
-  "images": [
-    "img/电视带firetv_30欧.jpg",
-    "img/电视加电视柜.jpg"
-  ],
-  "price": "€30",
-  "description": {
-    "zh": "电视、电视柜和 Fire TV 整套出售，整体状态良好。",
-    "en": "TV, TV cabinet, and Fire TV sold together in good condition.",
-    "de": "Fernseher, TV-Schrank und Fire TV werden zusammen verkauft, alles in gutem Zustand."
-  }
-},
- {
-  "title": {
-    "zh": "黑色人体工学旋转椅（可躺可直立）",
-    "en": "Ergonomic Black Swivel Chair (Reclining)",
-    "de": "Ergonomischer schwarzer Drehstuhl (verstellbar, mit Liegefunktion)"
-  },
-  "cover": "img/黑色旋转椅_25欧.jpg",
-  "images": [
-    "img/黑色旋转椅_25欧.jpg"
-  ],
-  "price": "€25",
-  "description": {
-    "zh": "人体工学设计，可躺可直立，坐着很舒服。",
-    "en": "Ergonomic design, can recline or sit upright, very comfortable.",
-    "de": "Ergonomisches Design, verstellbar bis zur Liegeposition, sehr bequem."
-  }
-},
-{
-  "title": {
-    "zh": "苹果三件套三合一充电器（全新）",
-    "en": "Apple 3-in-1 Charger (Brand New)",
-    "de": "Apple 3-in-1 Ladegerät (Neu)"
-  },
-  "cover": "img/苹果三合一充电器15欧.jpg",
-  "images": [
-    "img/苹果三合一充电器15欧.jpg"
-  ],
-  "price": "€15",
-  "description": {
-    "zh": "苹果三件套充电器，全新未使用。",
-    "en": "Apple 3-in-1 charger, brand new.",
-    "de": "Apple 3-in-1 Ladegerät, neu und unbenutzt."
-  }
-},
+      "title": {
+        "zh": "黑色旋转椅",
+        "en": "Black Swivel Chair",
+        "de": "Schwarzer Drehstuhl"
+      },
+      "cover": "img/黑色旋转椅_25欧.jpg",
+      "images": [
+        "img/黑色旋转椅_25欧.jpg"
+      ],
+      "price": "€25",
+      "description": {
+        "zh": "舒适实用，适合办公或书桌使用。",
+        "en": "Comfortable and practical, suitable for office or desk use.",
+        "de": "Bequem und praktisch, ideal für Büro oder Schreibtisch."
+      }
+    },
+    {
+      "title": {
+        "zh": "苹果三合一充电器",
+        "en": "Apple 3-in-1 Charger",
+        "de": "Apple 3-in-1 Ladegerät"
+      },
+      "cover": "img/苹果三合一充电器15欧.jpg",
+      "images": [
+        "img/苹果三合一充电器15欧.jpg"
+      ],
+      "price": "€15",
+      "description": {
+        "zh": "适合同时给多个苹果设备充电。",
+        "en": "Convenient for charging multiple Apple devices at once.",
+        "de": "Praktisch zum gleichzeitigen Laden mehrerer Apple-Geräte."
+      }
+    },
     {
       "title": {
         "zh": "蹦床",
@@ -171,6 +171,57 @@
         "zh": "适合居家运动或娱乐使用。",
         "en": "Suitable for home exercise or entertainment.",
         "de": "Geeignet für Sport oder Freizeit zu Hause."
+      }
+    },
+    {
+      "title": {
+        "zh": "宜家 4 格柜（送盒子）",
+        "en": "IKEA 4-Compartment Shelf (with boxes)",
+        "de": "IKEA 4-Fächer-Regal (mit Boxen)"
+      },
+      "cover": "img/宜家4格柜送盒子_10欧.jpg",
+      "images": [
+        "img/宜家4格柜送盒子_10欧.jpg"
+      ],
+      "price": "€10",
+      "description": {
+        "zh": "收纳方便，附送收纳盒。",
+        "en": "Convenient for storage and comes with boxes.",
+        "de": "Praktisch zur Aufbewahrung, inklusive Boxen."
+      }
+    },
+    {
+      "title": {
+        "zh": "衣架（可单买/整包）",
+        "en": "Clothes Hangers (Single or Bundle)",
+        "de": "Kleiderbügel (einzeln oder im Set)"
+      },
+      "cover": "img/很多衣架视数量定价，全包10欧.jpg",
+      "images": [
+        "img/很多衣架视数量定价，全包10欧.jpg"
+      ],
+      "price": "€10 (all)",
+      "description": {
+        "zh": "数量多，可按数量购买，整包 €10。",
+        "en": "Multiple pieces available, price depends on quantity, €10 for all.",
+        "de": "Viele verfügbar, Preis je nach Menge, komplett 10 €."
+      }
+    },
+    {
+      "title": {
+        "zh": "英式蓝牙键盘",
+        "en": "British Layout Bluetooth Keyboard",
+        "de": "Bluetooth-Tastatur mit UK-Layout"
+      },
+      "cover": "img/英式蓝牙键盘10欧.jpg",
+      "images": [
+        "img/英式蓝牙键盘10欧.jpg"
+      ],
+      "price": "€10",
+      "description": {
+        "zh": "蓝牙连接，英式键位布局。",
+        "en": "Bluetooth connection with UK keyboard layout.",
+        "de": "Bluetooth-Verbindung mit britischem Tastaturlayout."
       }
     },
     {
@@ -209,53 +260,54 @@
     },
     {
       "title": {
-        "zh": "宜家 4 格柜（送盒子）",
-        "en": "IKEA 4-Compartment Shelf (with boxes)",
-        "de": "IKEA 4-Fächer-Regal (mit Boxen)"
+        "zh": "门挂式镜子",
+        "en": "Over-the-Door Mirror",
+        "de": "Türhängespiegel"
       },
-      "cover": "img/宜家4格柜送盒子_10欧.jpg",
+      "cover": "img/挂在门上的镜子_8欧.jpg",
       "images": [
-        "img/宜家4格柜送盒子_10欧.jpg"
-      ],
-      "price": "€10",
-      "description": {
-        "zh": "收纳方便，附送收纳盒。",
-        "en": "Convenient for storage and comes with boxes.",
-        "de": "Praktisch zur Aufbewahrung, inklusive Boxen."
-      }
-    },
-    {
-      "title": {
-        "zh": "英式蓝牙键盘",
-        "en": "British Layout Bluetooth Keyboard",
-        "de": "Bluetooth-Tastatur mit UK-Layout"
-      },
-      "cover": "img/英式蓝牙键盘10欧.jpg",
-      "images": [
-        "img/英式蓝牙键盘10欧.jpg"
-      ],
-      "price": "€10",
-      "description": {
-        "zh": "蓝牙连接，英式键位布局。",
-        "en": "Bluetooth connection with UK keyboard layout.",
-        "de": "Bluetooth-Verbindung mit britischem Tastaturlayout."
-      }
-    },
-    {
-      "title": {
-        "zh": "5kg 哑铃",
-        "en": "5kg Dumbbell",
-        "de": "5kg Hantel"
-      },
-      "cover": "img/5kg哑铃8欧.jpg",
-      "images": [
-        "img/5kg哑铃8欧.jpg"
+        "img/挂在门上的镜子_8欧.jpg"
       ],
       "price": "€8",
       "description": {
-        "zh": "适合力量训练和居家健身。",
-        "en": "Suitable for strength training and home workouts.",
-        "de": "Geeignet für Krafttraining und Heimfitness."
+        "zh": "可直接挂门上，省空间，使用方便。",
+        "en": "Can be hung over the door, space-saving and convenient.",
+        "de": "Kann an der Tür aufgehängt werden, platzsparend und praktisch."
+      }
+    },
+    {
+      "title": {
+        "zh": "白色抽屉柜",
+        "en": "White Drawer Cabinet",
+        "de": "Weißer Schubladenschrank"
+      },
+      "cover": "img/白色抽屉柜8欧.jpg",
+      "images": [
+        "img/白色抽屉柜8欧.jpg"
+      ],
+      "price": "€8",
+      "description": {
+        "zh": "适合卧室或书桌旁收纳。",
+        "en": "Suitable for bedroom or desk-side storage.",
+        "de": "Geeignet für Schlafzimmer oder neben dem Schreibtisch."
+      }
+    },
+    {
+      "title": {
+        "zh": "9 格拼接柜",
+        "en": "9-Cube Storage Cabinet",
+        "de": "9-Fächer-Regal"
+      },
+      "cover": "img/9格拼接柜_8欧.jpg",
+      "images": [
+        "img/9格拼接柜_8欧.jpg",
+        "img/9格拼接柜2.jpg"
+      ],
+      "price": "€8",
+      "description": {
+        "zh": "适合分类收纳，轻便实用。",
+        "en": "Practical for organized storage.",
+        "de": "Praktisch für geordnete Aufbewahrung."
       }
     },
     {
@@ -277,73 +329,72 @@
     },
     {
       "title": {
-        "zh": "白色抽屉柜",
-        "en": "White Drawer Cabinet",
-        "de": "Weißer Schubladenschrank"
+        "zh": "Cecotec 体脂秤",
+        "en": "Cecotec Body Scale",
+        "de": "Cecotec Körperfettwaage"
       },
-      "cover": "img/白色抽屉柜8欧.jpg",
+      "cover": "img/cecotec体脂秤8欧.jpg",
       "images": [
-        "img/白色抽屉柜8欧.jpg"
+        "img/cecotec体脂秤8欧.jpg"
       ],
       "price": "€8",
       "description": {
-        "zh": "适合卧室或书桌旁收纳。",
-        "en": "Suitable for bedroom or desk-side storage.",
-        "de": "Geeignet für Schlafzimmer oder neben dem Schreibtisch."
+        "zh": "可测体重和体脂，适合日常使用。",
+        "en": "Measures weight and body fat, suitable for daily use.",
+        "de": "Misst Gewicht und Körperfett, ideal für den Alltag."
       }
     },
-{
-  "title": {
-    "zh": "防滑瑜伽垫（几乎全新）",
-    "en": "Non-Slip Yoga Mat (Like New)",
-    "de": "Rutschfeste Yogamatte (Fast wie neu)"
-  },
-  "cover": "img/防滑瑜伽垫8欧.jpg",
-  "images": [
-    "img/防滑瑜伽垫8欧.jpg"
-  ],
-  "price": "€8",
-  "description": {
-    "zh": "仅使用一次，几乎全新，适合瑜伽和居家锻炼。",
-    "en": "Used only once, almost like new, perfect for yoga and home workouts.",
-    "de": "Nur einmal benutzt, fast wie neu, ideal für Yoga und Heimtraining."
-  }
-},
-   {
-  "title": {
-    "zh": "9格拼接收纳柜",
-    "en": "9-Cube Storage Cabinet",
-    "de": "9-Fächer-Regal"
-  },
-  "cover": "img/9格拼接柜_8欧.jpg",
-  "images": [
-    "img/9格拼接柜_8欧.jpg",
-    "img/9格拼接柜2.jpg"
-  ],
-  "price": "€8",
-  "description": {
-    "zh": "放鞋或杂物非常合适，轻便实用。",
-    "en": "Great for storing shoes or miscellaneous items, lightweight and practical.",
-    "de": "Ideal für Schuhe oder Kleinteile, leicht und praktisch."
-  }
-},
- {
-  "title": {
-    "zh": "木质艺术收纳柜（斜拉设计）",
-    "en": "Wooden Storage Cabinet (Artistic Design)",
-    "de": "Holzregal mit kreativem Design"
-  },
-  "cover": "img/木质收纳柜_7欧.jpg",
-  "images": [
-    "img/木质收纳柜_7欧.jpg"
-  ],
-  "price": "€7",
-  "description": {
-    "zh": "造型很有艺术感，斜拉储物空间充足，实用又好看。",
-    "en": "Artistic design with angled storage space, both practical and stylish.",
-    "de": "Kreatives Design mit schrägem Stauraum, praktisch und stilvoll."
-  }
-},
+    {
+      "title": {
+        "zh": "5kg 哑铃",
+        "en": "5kg Dumbbell",
+        "de": "5kg Hantel"
+      },
+      "cover": "img/5kg哑铃8欧.jpg",
+      "images": [
+        "img/5kg哑铃8欧.jpg"
+      ],
+      "price": "€8",
+      "description": {
+        "zh": "适合力量训练和居家健身。",
+        "en": "Suitable for strength training and home workouts.",
+        "de": "Geeignet für Krafttraining und Heimfitness."
+      }
+    },
+    {
+      "title": {
+        "zh": "防滑瑜伽垫",
+        "en": "Non-Slip Yoga Mat",
+        "de": "Rutschfeste Yogamatte"
+      },
+      "cover": "img/防滑瑜伽垫8欧.jpg",
+      "images": [
+        "img/防滑瑜伽垫8欧.jpg"
+      ],
+      "price": "€8",
+      "description": {
+        "zh": "适合瑜伽、拉伸和居家锻炼。",
+        "en": "Suitable for yoga, stretching, and home workouts.",
+        "de": "Geeignet für Yoga, Stretching und Heimtraining."
+      }
+    },
+    {
+      "title": {
+        "zh": "木质收纳柜",
+        "en": "Wooden Storage Cabinet",
+        "de": "Holzschrank zur Aufbewahrung"
+      },
+      "cover": "img/木质收纳柜_7欧.jpg",
+      "images": [
+        "img/木质收纳柜_7欧.jpg"
+      ],
+      "price": "€7",
+      "description": {
+        "zh": "木质外观，适合家居收纳使用。",
+        "en": "Wooden storage cabinet suitable for home use.",
+        "de": "Holzschrank, ideal für die Aufbewahrung zu Hause."
+      }
+    },
     {
       "title": {
         "zh": "Vlog 录制神器",
@@ -363,70 +414,20 @@
     },
     {
       "title": {
-        "zh": "储物凳",
-        "en": "Storage Ottoman",
-        "de": "Aufbewahrungshocker"
+        "zh": "铁质衣帽架",
+        "en": "Metal Coat Rack",
+        "de": "Metall-Garderobenständer"
       },
-      "cover": "img/储物凳_5欧.jpg",
+      "cover": "img/铁质衣帽架.jpg",
       "images": [
-        "img/储物凳_5欧.jpg"
+        "img/铁质衣帽架.jpg",
+        "img/铁质衣帽架2.jpg"
       ],
       "price": "€5",
       "description": {
-        "zh": "可坐可收纳，实用方便。",
-        "en": "Can be used for sitting and storage.",
-        "de": "Zum Sitzen und Aufbewahren geeignet."
-      }
-    },
-    {
-      "title": {
-        "zh": "化妆品收纳盒",
-        "en": "Cosmetic Organizer",
-        "de": "Kosmetik-Organizer"
-      },
-      "cover": "img/化妆品收纳盒_5欧.jpg",
-      "images": [
-        "img/化妆品收纳盒_5欧.jpg"
-      ],
-      "price": "€5",
-      "description": {
-        "zh": "适合整理化妆品和小物件。",
-        "en": "Great for organizing cosmetics and small items.",
-        "de": "Ideal zur Aufbewahrung von Kosmetik und Kleinteilen."
-      }
-    },
-    {
-      "title": {
-        "zh": "全新卷发棒",
-        "en": "New Curling Iron",
-        "de": "Neuer Lockenstab"
-      },
-      "cover": "img/卷发棒全新_5欧.jpg",
-      "images": [
-        "img/卷发棒全新_5欧.jpg"
-      ],
-      "price": "€5",
-      "description": {
-        "zh": "全新未使用。",
-        "en": "Brand new and unused.",
-        "de": "Neu und unbenutzt."
-      }
-    },
-    {
-      "title": {
-        "zh": "桌下抽屉柜",
-        "en": "Under-Desk Drawer Cabinet",
-        "de": "Schubladenschrank für unter den Tisch"
-      },
-      "cover": "img/可放在桌下抽屉柜_5欧.jpg",
-      "images": [
-        "img/可放在桌下抽屉柜_5欧.jpg"
-      ],
-      "price": "€5",
-      "description": {
-        "zh": "适合书桌下方收纳使用。",
-        "en": "Suitable for storage under a desk.",
-        "de": "Geeignet zur Aufbewahrung unter dem Schreibtisch."
+        "zh": "底部较重，非常稳，可以挂较重的衣物或包，适合日常使用，自取。",
+        "en": "Heavy base and very stable, can hold heavier clothes or bags. Pickup only.",
+        "de": "Schwerer Standfuß und sehr stabil, geeignet für schwere Kleidung oder Taschen. Nur Abholung."
       }
     },
     {
@@ -448,19 +449,53 @@
     },
     {
       "title": {
-        "zh": "户外充气床垫",
-        "en": "Outdoor Inflatable Mattress",
-        "de": "Aufblasbare Outdoor-Matratze"
+        "zh": "蓝色旋转椅",
+        "en": "Blue Swivel Chair",
+        "de": "Blauer Drehstuhl"
       },
-      "cover": "img/户外充气床垫_5欧.jpg",
+      "cover": "img/蓝色旋转椅5欧.jpg",
       "images": [
-        "img/户外充气床垫_5欧.jpg"
+        "img/蓝色旋转椅5欧.jpg"
       ],
       "price": "€5",
       "description": {
-        "zh": "适合露营或临时休息使用。",
-        "en": "Suitable for camping or temporary rest.",
-        "de": "Geeignet für Camping oder als Gästematratze."
+        "zh": "适合书桌或办公使用。",
+        "en": "Suitable for desk or office use.",
+        "de": "Geeignet für Schreibtisch oder Büro."
+      }
+    },
+    {
+      "title": {
+        "zh": "储物凳",
+        "en": "Storage Ottoman",
+        "de": "Aufbewahrungshocker"
+      },
+      "cover": "img/储物凳_5欧.jpg",
+      "images": [
+        "img/储物凳_5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "可坐可收纳，实用方便。",
+        "en": "Can be used for sitting and storage.",
+        "de": "Zum Sitzen und Aufbewahren geeignet."
+      }
+    },
+    {
+      "title": {
+        "zh": "桌下抽屉柜",
+        "en": "Under-Desk Drawer Cabinet",
+        "de": "Schubladenschrank für unter den Tisch"
+      },
+      "cover": "img/可放在桌下抽屉柜_5欧.jpg",
+      "images": [
+        "img/可放在桌下抽屉柜_5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "适合书桌下方收纳使用。",
+        "en": "Suitable for storage under a desk.",
+        "de": "Geeignet zur Aufbewahrung unter dem Schreibtisch."
       }
     },
     {
@@ -499,23 +534,6 @@
     },
     {
       "title": {
-        "zh": "软木板",
-        "en": "Cork Board",
-        "de": "Korktafel"
-      },
-      "cover": "img/软木板_5欧.jpg",
-      "images": [
-        "img/软木板_5欧.jpg"
-      ],
-      "price": "€5",
-      "description": {
-        "zh": "可用于便签、照片或日程展示。",
-        "en": "Useful for notes, photos, and schedules.",
-        "de": "Praktisch für Notizen, Fotos und Pläne."
-      }
-    },
-    {
-      "title": {
         "zh": "金属收纳架（带抽屉）",
         "en": "Metal Storage Rack with Drawers",
         "de": "Metallregal mit Schubladen"
@@ -533,87 +551,19 @@
     },
     {
       "title": {
-        "zh": "小空调扇",
-        "en": "Mini Air Cooler Fan",
-        "de": "Kleine Klimaventilator"
+        "zh": "化妆品收纳盒",
+        "en": "Cosmetic Organizer",
+        "de": "Kosmetik-Organizer"
       },
-      "cover": "img/小空调扇5欧.jpg",
+      "cover": "img/化妆品收纳盒_5欧.jpg",
       "images": [
-        "img/小空调扇5欧.jpg"
+        "img/化妆品收纳盒_5欧.jpg"
       ],
       "price": "€5",
       "description": {
-        "zh": "小巧便携，适合夏天使用。",
-        "en": "Compact and portable, suitable for summer.",
-        "de": "Kompakt und tragbar, ideal für den Sommer."
-      }
-    },
-    {
-      "title": {
-        "zh": "狼牙棒",
-        "en": "Massage Roller Stick",
-        "de": "Massage-Roller"
-      },
-      "cover": "img/狼牙棒5欧.jpg",
-      "images": [
-        "img/狼牙棒5欧.jpg"
-      ],
-      "price": "€5",
-      "description": {
-        "zh": "适合肌肉放松和按摩使用。",
-        "en": "Suitable for muscle relaxation and massage.",
-        "de": "Geeignet zur Muskelentspannung und Massage."
-      }
-    },
-    {
-      "title": {
-        "zh": "白板（送笔）",
-        "en": "Whiteboard with Marker",
-        "de": "Whiteboard mit Stift"
-      },
-      "cover": "img/白版送笔5欧.jpg",
-      "images": [
-        "img/白版送笔5欧.jpg"
-      ],
-      "price": "€5",
-      "description": {
-        "zh": "适合学习、办公和记录使用。",
-        "en": "Suitable for study, office work, and notes.",
-        "de": "Geeignet für Studium, Büro und Notizen."
-      }
-    },
-    {
-      "title": {
-        "zh": "监控摄像头",
-        "en": "Security Camera",
-        "de": "Überwachungskamera"
-      },
-      "cover": "img/监控摄像头5欧.jpg",
-      "images": [
-        "img/监控摄像头5欧.jpg"
-      ],
-      "price": "€5",
-      "description": {
-        "zh": "适合室内简单监控使用。",
-        "en": "Suitable for simple indoor monitoring.",
-        "de": "Geeignet für einfache Innenraumüberwachung."
-      }
-    },
-    {
-      "title": {
-        "zh": "磁吸板",
-        "en": "Magnetic Board",
-        "de": "Magnettafel"
-      },
-      "cover": "img/磁吸板5欧.jpg",
-      "images": [
-        "img/磁吸板5欧.jpg"
-      ],
-      "price": "€5",
-      "description": {
-        "zh": "适合便签和照片展示。",
-        "en": "Good for notes and photo display.",
-        "de": "Praktisch für Notizen und Fotos."
+        "zh": "适合整理化妆品和小物件。",
+        "en": "Great for organizing cosmetics and small items.",
+        "de": "Ideal zur Aufbewahrung von Kosmetik und Kleinteilen."
       }
     },
     {
@@ -652,19 +602,87 @@
     },
     {
       "title": {
-        "zh": "蓝色旋转椅",
-        "en": "Blue Swivel Chair",
-        "de": "Blauer Drehstuhl"
+        "zh": "监控摄像头",
+        "en": "Security Camera",
+        "de": "Überwachungskamera"
       },
-      "cover": "img/蓝色旋转椅5欧.jpg",
+      "cover": "img/监控摄像头5欧.jpg",
       "images": [
-        "img/蓝色旋转椅5欧.jpg"
+        "img/监控摄像头5欧.jpg"
       ],
       "price": "€5",
       "description": {
-        "zh": "适合书桌或办公使用。",
-        "en": "Suitable for desk or office use.",
-        "de": "Geeignet für Schreibtisch oder Büro."
+        "zh": "适合室内简单监控使用。",
+        "en": "Suitable for simple indoor monitoring.",
+        "de": "Geeignet für einfache Innenraumüberwachung."
+      }
+    },
+    {
+      "title": {
+        "zh": "白板（送笔）",
+        "en": "Whiteboard with Marker",
+        "de": "Whiteboard mit Stift"
+      },
+      "cover": "img/白版送笔5欧.jpg",
+      "images": [
+        "img/白版送笔5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "适合学习、办公和记录使用。",
+        "en": "Suitable for study, office work, and notes.",
+        "de": "Geeignet für Studium, Büro und Notizen."
+      }
+    },
+    {
+      "title": {
+        "zh": "软木板",
+        "en": "Cork Board",
+        "de": "Korktafel"
+      },
+      "cover": "img/软木板_5欧.jpg",
+      "images": [
+        "img/软木板_5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "可用于便签、照片或日程展示。",
+        "en": "Useful for notes, photos, and schedules.",
+        "de": "Praktisch für Notizen, Fotos und Pläne."
+      }
+    },
+    {
+      "title": {
+        "zh": "磁吸板",
+        "en": "Magnetic Board",
+        "de": "Magnettafel"
+      },
+      "cover": "img/磁吸板5欧.jpg",
+      "images": [
+        "img/磁吸板5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "适合便签和照片展示。",
+        "en": "Good for notes and photo display.",
+        "de": "Praktisch für Notizen und Fotos."
+      }
+    },
+    {
+      "title": {
+        "zh": "小空调扇",
+        "en": "Mini Air Cooler Fan",
+        "de": "Kleine Klimaventilator"
+      },
+      "cover": "img/小空调扇5欧.jpg",
+      "images": [
+        "img/小空调扇5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "小巧便携，适合夏天使用。",
+        "en": "Compact and portable, suitable for summer.",
+        "de": "Kompakt und tragbar, ideal für den Sommer."
       }
     },
     {
@@ -684,23 +702,108 @@
         "de": "Für tägliche Abkühlung geeignet."
       }
     },
-{
-  "title": {
-    "zh": "0.5kg 小哑铃",
-    "en": "0.5kg Dumbbells",
-    "de": "0,5kg Hanteln"
-  },
-  "cover": "img/0.5小哑铃5欧.jpg",
-  "images": [
-    "img/0.5小哑铃5欧.jpg"
-  ],
-  "price": "€5",
-  "description": {
-    "zh": "适合有氧、负重训练和跑步使用。",
-    "en": "Suitable for cardio, weighted training, and running.",
-    "de": "Geeignet für Cardio-, Gewichtstraining und Laufen."
-  }
-},
+    {
+      "title": {
+        "zh": "滑板护具（M码）",
+        "en": "Skateboard Protective Gear (Size M)",
+        "de": "Skateboard-Schutzausrüstung (Größe M)"
+      },
+      "cover": "img/滑板护具m码5欧.jpg",
+      "images": [
+        "img/滑板护具m码5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "M码护具，适合滑板或轮滑使用。",
+        "en": "Size M protective gear, suitable for skateboarding or skating.",
+        "de": "Schutzausrüstung Größe M, geeignet für Skateboard oder Inlineskates."
+      }
+    },
+    {
+      "title": {
+        "zh": "狼牙棒",
+        "en": "Massage Roller Stick",
+        "de": "Massage-Roller"
+      },
+      "cover": "img/狼牙棒5欧.jpg",
+      "images": [
+        "img/狼牙棒5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "适合肌肉放松和按摩使用。",
+        "en": "Suitable for muscle relaxation and massage.",
+        "de": "Geeignet zur Muskelentspannung und Massage."
+      }
+    },
+    {
+      "title": {
+        "zh": "0.5 小哑铃",
+        "en": "0.5kg Dumbbells",
+        "de": "0,5kg Hanteln"
+      },
+      "cover": "img/0.5小哑铃5欧.jpg",
+      "images": [
+        "img/0.5小哑铃5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "适合初学者和轻量训练。",
+        "en": "Suitable for beginners and light exercise.",
+        "de": "Geeignet für Anfänger und leichtes Training."
+      }
+    },
+    {
+      "title": {
+        "zh": "全新卷发棒",
+        "en": "New Curling Iron",
+        "de": "Neuer Lockenstab"
+      },
+      "cover": "img/卷发棒全新_5欧.jpg",
+      "images": [
+        "img/卷发棒全新_5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "全新未使用。",
+        "en": "Brand new and unused.",
+        "de": "Neu und unbenutzt."
+      }
+    },
+    {
+      "title": {
+        "zh": "直发梳",
+        "en": "Hair Straightening Brush",
+        "de": "Glättbürste"
+      },
+      "cover": "img/直发梳1_5欧.jpg",
+      "images": [
+        "img/直发梳1_5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "快速打理头发，使用方便。",
+        "en": "Quick and easy hair styling.",
+        "de": "Schnelles und einfaches Haarstyling."
+      }
+    },
+    {
+      "title": {
+        "zh": "户外充气床垫",
+        "en": "Outdoor Inflatable Mattress",
+        "de": "Aufblasbare Outdoor-Matratze"
+      },
+      "cover": "img/户外充气床垫_5欧.jpg",
+      "images": [
+        "img/户外充气床垫_5欧.jpg"
+      ],
+      "price": "€5",
+      "description": {
+        "zh": "适合露营或临时休息使用。",
+        "en": "Suitable for camping or temporary rest.",
+        "de": "Geeignet für Camping oder als Gästematratze."
+      }
+    },
     {
       "title": {
         "zh": "床桌",
@@ -737,6 +840,23 @@
     },
     {
       "title": {
+        "zh": "全新坐垫",
+        "en": "New Seat Cushion",
+        "de": "Neues Sitzkissen"
+      },
+      "cover": "img/全新坐垫3欧.jpg",
+      "images": [
+        "img/全新坐垫3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "全新未使用，坐感舒适。",
+        "en": "Brand new and comfortable.",
+        "de": "Neu und bequem."
+      }
+    },
+    {
+      "title": {
         "zh": "双层金属书架",
         "en": "Two-Tier Metal Shelf",
         "de": "Zweistufiges Metallregal"
@@ -754,19 +874,189 @@
     },
     {
       "title": {
-        "zh": "小腿拉伸神器",
-        "en": "Calf Stretching Tool",
-        "de": "Wadendehner"
+        "zh": "鞋架",
+        "en": "Shoe Rack",
+        "de": "Schuhregal"
       },
-      "cover": "img/小腿拉伸神器3欧.jpg",
+      "cover": "img/鞋架3欧.jpg",
       "images": [
-        "img/小腿拉伸神器3欧.jpg"
+        "img/鞋架3欧.jpg"
       ],
       "price": "€3",
       "description": {
-        "zh": "适合拉伸和腿部放松。",
-        "en": "Suitable for stretching and leg relaxation.",
-        "de": "Geeignet für Stretching und Entspannung der Beine."
+        "zh": "适合门口或卧室收纳鞋子。",
+        "en": "Suitable for storing shoes in the hallway or bedroom.",
+        "de": "Geeignet für Schuhe im Flur oder Schlafzimmer."
+      }
+    },
+    {
+      "title": {
+        "zh": "折叠椅 1",
+        "en": "Folding Chair 1",
+        "de": "Klappstuhl 1"
+      },
+      "cover": "img/折叠椅1_3欧.jpg",
+      "images": [
+        "img/折叠椅1_3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "轻便实用，方便收纳。",
+        "en": "Lightweight, practical, and easy to store.",
+        "de": "Leicht, praktisch und einfach zu verstauen."
+      }
+    },
+    {
+      "title": {
+        "zh": "折叠椅 2",
+        "en": "Folding Chair 2",
+        "de": "Klappstuhl 2"
+      },
+      "cover": "img/折叠椅2_3欧.jpg",
+      "images": [
+        "img/折叠椅2_3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "轻便实用，方便收纳。",
+        "en": "Lightweight, practical, and easy to store.",
+        "de": "Leicht, praktisch und einfach zu verstauen."
+      }
+    },
+    {
+      "title": {
+        "zh": "脏衣篓（带轮）",
+        "en": "Laundry Basket with Wheels",
+        "de": "Wäschekorb mit Rollen"
+      },
+      "cover": "img/脏衣篓带轮3欧.jpg",
+      "images": [
+        "img/脏衣篓带轮3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "移动方便，适合日常收纳衣物。",
+        "en": "Easy to move, suitable for daily laundry storage.",
+        "de": "Leicht beweglich, ideal für Wäsche."
+      }
+    },
+    {
+      "title": {
+        "zh": "脏衣袋",
+        "en": "Laundry Bag",
+        "de": "Wäschesack"
+      },
+      "cover": "img/脏衣袋3欧.jpg",
+      "images": [
+        "img/脏衣袋3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "轻便收纳脏衣物。",
+        "en": "Lightweight and useful for laundry storage.",
+        "de": "Leicht und praktisch für Schmutzwäsche."
+      }
+    },
+    {
+      "title": {
+        "zh": "金属篓",
+        "en": "Metal Basket",
+        "de": "Metallkorb"
+      },
+      "cover": "img/金属篓3欧.jpg",
+      "images": [
+        "img/金属篓3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "适合收纳杂物。",
+        "en": "Useful for organizing small items.",
+        "de": "Praktisch zur Aufbewahrung von Kleinteilen."
+      }
+    },
+    {
+      "title": {
+        "zh": "杯子架",
+        "en": "Cup Rack",
+        "de": "Tassenständer"
+      },
+      "cover": "img/杯子架_3欧.jpg",
+      "images": [
+        "img/杯子架_3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "适合收纳杯子或厨房小件。",
+        "en": "Useful for cups and small kitchen items.",
+        "de": "Praktisch für Tassen und kleine Küchenutensilien."
+      }
+    },
+    {
+      "title": {
+        "zh": "厨房/浴室可移动置物架",
+        "en": "Movable Shelf for Kitchen/Bathroom",
+        "de": "Mobiles Regal für Küche/Badezimmer"
+      },
+      "cover": "img/厨房:浴室可移动置物架_3欧.jpg",
+      "images": [
+        "img/厨房:浴室可移动置物架_3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "可灵活放置，适合狭小空间使用。",
+        "en": "Flexible and practical for small spaces.",
+        "de": "Flexibel und praktisch für kleine Räume."
+      }
+    },
+    {
+      "title": {
+        "zh": "宜家垃圾桶",
+        "en": "IKEA Trash Bin",
+        "de": "IKEA Mülleimer"
+      },
+      "cover": "img/宜家垃圾桶_3欧.jpg",
+      "images": [
+        "img/宜家垃圾桶_3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "简洁实用，适合日常使用。",
+        "en": "Simple and practical for daily use.",
+        "de": "Einfach und praktisch für den Alltag."
+      }
+    },
+    {
+      "title": {
+        "zh": "小垃圾桶",
+        "en": "Small Trash Bin",
+        "de": "Kleiner Mülleimer"
+      },
+      "cover": "img/小垃圾桶_3欧.jpg",
+      "images": [
+        "img/小垃圾桶_3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "适合桌边或浴室使用。",
+        "en": "Suitable for desk side or bathroom use.",
+        "de": "Geeignet für Schreibtisch oder Badezimmer."
+      }
+    },
+    {
+      "title": {
+        "zh": "DVD 读盘器",
+        "en": "DVD Drive",
+        "de": "DVD-Laufwerk"
+      },
+      "cover": "img/dvd读盘器3欧.jpg",
+      "images": [
+        "img/dvd读盘器3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "适合读取光盘或安装软件使用。",
+        "en": "Useful for reading discs or software installation.",
+        "de": "Geeignet zum Lesen von Discs oder zur Softwareinstallation."
       }
     },
     {
@@ -823,6 +1113,40 @@
     },
     {
       "title": {
+        "zh": "电动头部按摩器",
+        "en": "Electric Head Massager",
+        "de": "Elektrischer Kopfmassager"
+      },
+      "cover": "img/电动头部按摩3欧.jpg",
+      "images": [
+        "img/电动头部按摩3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "适合放松头部和日常按摩。",
+        "en": "Suitable for head relaxation and massage.",
+        "de": "Geeignet zur Entspannung und Massage des Kopfes."
+      }
+    },
+    {
+      "title": {
+        "zh": "小腿拉伸神器",
+        "en": "Calf Stretching Tool",
+        "de": "Wadendehner"
+      },
+      "cover": "img/小腿拉伸神器3欧.jpg",
+      "images": [
+        "img/小腿拉伸神器3欧.jpg"
+      ],
+      "price": "€3",
+      "description": {
+        "zh": "适合拉伸和腿部放松。",
+        "en": "Suitable for stretching and leg relaxation.",
+        "de": "Geeignet für Stretching und Entspannung der Beine."
+      }
+    },
+    {
+      "title": {
         "zh": "电动刮毛刀",
         "en": "Electric Fabric Shaver",
         "de": "Elektrischer Fusselrasierer"
@@ -840,19 +1164,19 @@
     },
     {
       "title": {
-        "zh": "电动头部按摩器",
-        "en": "Electric Head Massager",
-        "de": "Elektrischer Kopfmassager"
+        "zh": "洗化妆刷神器",
+        "en": "Makeup Brush Cleaner",
+        "de": "Make-up-Pinselreiniger"
       },
-      "cover": "img/电动头部按摩3欧.jpg",
+      "cover": "img/洗化妆刷神器.jpg",
       "images": [
-        "img/电动头部按摩3欧.jpg"
+        "img/洗化妆刷神器.jpg"
       ],
       "price": "€3",
       "description": {
-        "zh": "适合放松头部和日常按摩。",
-        "en": "Suitable for head relaxation and massage.",
-        "de": "Geeignet zur Entspannung und Massage des Kopfes."
+        "zh": "清洁化妆刷方便实用。",
+        "en": "Easy and practical for cleaning makeup brushes.",
+        "de": "Praktisch zum Reinigen von Make-up-Pinseln."
       }
     },
     {
@@ -874,173 +1198,121 @@
     },
     {
       "title": {
-        "zh": "脏衣篓（带轮）",
-        "en": "Laundry Basket with Wheels",
-        "de": "Wäschekorb mit Rollen"
+        "zh": "颈椎按摩拉伸枕",
+        "en": "Neck Massage & Stretching Pillow",
+        "de": "Nacken-Massage- und Dehnungskissen"
       },
-      "cover": "img/脏衣篓带轮3欧.jpg",
+      "cover": "img/颈枕2.jpg",
       "images": [
-        "img/脏衣篓带轮3欧.jpg"
+        "img/颈枕2.jpg"
       ],
-      "price": "€3",
+      "price": "€2",
       "description": {
-        "zh": "移动方便，适合日常收纳衣物。",
-        "en": "Easy to move, suitable for daily laundry storage.",
-        "de": "Leicht beweglich, ideal für Wäsche."
+        "zh": "用于颈部放松和拉伸，带按摩凸点，适合长时间低头或久坐人群使用。",
+        "en": "Designed for neck relaxation and stretching, with massage nodes. Suitable for people who sit long hours or use phones frequently.",
+        "de": "Zur Entspannung und Dehnung des Nackens, mit Massagepunkten. Ideal für Personen, die lange sitzen oder viel aufs Handy schauen."
       }
     },
     {
       "title": {
-        "zh": "脏衣袋",
-        "en": "Laundry Bag",
-        "de": "Wäschesack"
+        "zh": "床边储物盒加架",
+        "en": "Bedside Storage Box with Rack",
+        "de": "Bettseitiger Aufbewahrungskorb mit Gestell"
       },
-      "cover": "img/脏衣袋3欧.jpg",
+      "cover": "img/床边储物盒加架2欧.jpg",
       "images": [
-        "img/脏衣袋3欧.jpg"
+        "img/床边储物盒加架2欧.jpg"
       ],
-      "price": "€3",
+      "price": "€2",
       "description": {
-        "zh": "轻便收纳脏衣物。",
-        "en": "Lightweight and useful for laundry storage.",
-        "de": "Leicht und praktisch für Schmutzwäsche."
+        "zh": "适合床边放书、本子和杂物。",
+        "en": "Suitable for storing books and small items beside the bed.",
+        "de": "Geeignet für Bücher und Kleinteile neben dem Bett."
       }
     },
     {
       "title": {
-        "zh": "金属篓",
-        "en": "Metal Basket",
-        "de": "Metallkorb"
+        "zh": "桌面收纳台",
+        "en": "Desk Organizer",
+        "de": "Schreibtisch-Organizer"
       },
-      "cover": "img/金属篓3欧.jpg",
+      "cover": "img/桌面收纳台_2欧.jpg",
       "images": [
-        "img/金属篓3欧.jpg"
+        "img/桌面收纳台_2欧.jpg"
       ],
-      "price": "€3",
+      "price": "€2",
       "description": {
-        "zh": "适合收纳杂物。",
-        "en": "Useful for organizing small items.",
-        "de": "Praktisch zur Aufbewahrung von Kleinteilen."
+        "zh": "适合桌面整理，收纳小物件。",
+        "en": "Great for organizing small desk items.",
+        "de": "Ideal zur Organisation kleiner Gegenstände auf dem Schreibtisch."
       }
     },
     {
       "title": {
-        "zh": "鞋架",
-        "en": "Shoe Rack",
-        "de": "Schuhregal"
+        "zh": "黑色金属框",
+        "en": "Black Metal Frame",
+        "de": "Schwarzer Metallrahmen"
       },
-      "cover": "img/鞋架3欧.jpg",
+      "cover": "img/黑色金属框_2欧.jpg",
       "images": [
-        "img/鞋架3欧.jpg"
+        "img/黑色金属框_2欧.jpg"
       ],
-      "price": "€3",
+      "price": "€2",
       "description": {
-        "zh": "适合门口或卧室收纳鞋子。",
-        "en": "Suitable for storing shoes in the hallway or bedroom.",
-        "de": "Geeignet für Schuhe im Flur oder Schlafzimmer."
+        "zh": "可作摆件或小型支架使用。",
+        "en": "Can be used as a frame or small stand.",
+        "de": "Kann als Rahmen oder kleine Halterung genutzt werden."
       }
     },
     {
       "title": {
-        "zh": "宜家垃圾桶",
-        "en": "IKEA Trash Bin",
-        "de": "IKEA Mülleimer"
+        "zh": "照片展示板",
+        "en": "Photo Display Board",
+        "de": "Fotowand / Fotoboard"
       },
-      "cover": "img/宜家垃圾桶_3欧.jpg",
+      "cover": "img/照片展示板2欧.jpg",
       "images": [
-        "img/宜家垃圾桶_3欧.jpg"
+        "img/照片展示板2欧.jpg"
       ],
-      "price": "€3",
+      "price": "€2",
       "description": {
-        "zh": "简洁实用，适合日常使用。",
-        "en": "Simple and practical for daily use.",
-        "de": "Einfach und praktisch für den Alltag."
+        "zh": "适合展示照片、卡片和便签。",
+        "en": "Suitable for photos, cards, and notes.",
+        "de": "Geeignet für Fotos, Karten und Notizen."
       }
     },
     {
       "title": {
-        "zh": "小垃圾桶",
-        "en": "Small Trash Bin",
-        "de": "Kleiner Mülleimer"
+        "zh": "装饰花+花瓶",
+        "en": "Decorative Flowers with Vase",
+        "de": "Deko-Blumen mit Vase"
       },
-      "cover": "img/小垃圾桶_3欧.jpg",
+      "cover": "img/装饰花带花瓶2欧.jpg",
       "images": [
-        "img/小垃圾桶_3欧.jpg"
+        "img/装饰花带花瓶2欧.jpg"
       ],
-      "price": "€3",
+      "price": "€2",
       "description": {
-        "zh": "适合桌边或浴室使用。",
-        "en": "Suitable for desk side or bathroom use.",
-        "de": "Geeignet für Schreibtisch oder Badezimmer."
+        "zh": "装饰氛围好，摆放好看。",
+        "en": "Nice decoration for home.",
+        "de": "Schöne Deko für Zuhause."
       }
     },
     {
       "title": {
-        "zh": "杯子架",
-        "en": "Cup Rack",
-        "de": "Tassenständer"
+        "zh": "手机支架",
+        "en": "Phone Stand",
+        "de": "Handyhalter"
       },
-      "cover": "img/杯子架_3欧.jpg",
+      "cover": "img/手机支架2欧.jpg",
       "images": [
-        "img/杯子架_3欧.jpg"
+        "img/手机支架2欧.jpg"
       ],
-      "price": "€3",
+      "price": "€2",
       "description": {
-        "zh": "适合收纳杯子或厨房小件。",
-        "en": "Useful for cups and small kitchen items.",
-        "de": "Praktisch für Tassen und kleine Küchenutensilien."
-      }
-    },
-    {
-      "title": {
-        "zh": "厨房/浴室可移动置物架",
-        "en": "Movable Shelf for Kitchen/Bathroom",
-        "de": "Mobiles Regal für Küche/Badezimmer"
-      },
-      "cover": "img/厨房:浴室可移动置物架_3欧.jpg",
-      "images": [
-        "img/厨房:浴室可移动置物架_3欧.jpg"
-      ],
-      "price": "€3",
-      "description": {
-        "zh": "可灵活放置，适合狭小空间使用。",
-        "en": "Flexible and practical for small spaces.",
-        "de": "Flexibel und praktisch für kleine Räume."
-      }
-    },
-    {
-      "title": {
-        "zh": "DVD 读盘器",
-        "en": "DVD Drive",
-        "de": "DVD-Laufwerk"
-      },
-      "cover": "img/dvd读盘器3欧.jpg",
-      "images": [
-        "img/dvd读盘器3欧.jpg"
-      ],
-      "price": "€3",
-      "description": {
-        "zh": "适合读取光盘或安装软件使用。",
-        "en": "Useful for reading discs or software installation.",
-        "de": "Geeignet zum Lesen von Discs oder zur Softwareinstallation."
-      }
-    },
-    {
-      "title": {
-        "zh": "折叠椅 1",
-        "en": "Folding Chair 1",
-        "de": "Klappstuhl 1"
-      },
-      "cover": "img/折叠椅1_3欧.jpg",
-      "images": [
-        "img/折叠椅1_3欧.jpg",
-        "img/折叠椅2_3欧.jpg"
-      ],
-      "price": "€3",
-      "description": {
-        "zh": "轻便实用，方便收纳。",
-        "en": "Lightweight, practical, and easy to store.",
-        "de": "Leicht, praktisch und einfach zu verstauen."
+        "zh": "适合桌面追剧或视频通话使用。",
+        "en": "Useful for watching videos or video calls on the desk.",
+        "de": "Praktisch für Videos oder Anrufe am Schreibtisch."
       }
     },
     {
@@ -1063,57 +1335,6 @@
     },
     {
       "title": {
-        "zh": "体重秤",
-        "en": "Body Scale",
-        "de": "Personenwaage"
-      },
-      "cover": "img/体重秤2欧.jpg",
-      "images": [
-        "img/体重秤2欧.jpg"
-      ],
-      "price": "€2",
-      "description": {
-        "zh": "日常称重使用。",
-        "en": "Suitable for daily weight measurement.",
-        "de": "Geeignet für das tägliche Wiegen."
-      }
-    },
-    {
-      "title": {
-        "zh": "床边储物盒加架",
-        "en": "Bedside Storage Box with Rack",
-        "de": "Bettseitiger Aufbewahrungskorb mit Gestell"
-      },
-      "cover": "img/床边储物盒加架2欧.jpg",
-      "images": [
-        "img/床边储物盒加架2欧.jpg"
-      ],
-      "price": "€2",
-      "description": {
-        "zh": "适合床边放书、本子和杂物。",
-        "en": "Suitable for storing books and small items beside the bed.",
-        "de": "Geeignet für Bücher und Kleinteile neben dem Bett."
-      }
-    },
-    {
-      "title": {
-        "zh": "手机支架",
-        "en": "Phone Stand",
-        "de": "Handyhalter"
-      },
-      "cover": "img/手机支架2欧.jpg",
-      "images": [
-        "img/手机支架2欧.jpg"
-      ],
-      "price": "€2",
-      "description": {
-        "zh": "适合桌面追剧或视频通话使用。",
-        "en": "Useful for watching videos or video calls on the desk.",
-        "de": "Praktisch für Videos oder Anrufe am Schreibtisch."
-      }
-    },
-    {
-      "title": {
         "zh": "全新 2m 网线（每个）",
         "en": "New 2m Ethernet Cable (each)",
         "de": "Neues 2m Netzwerkkabel (pro Stück)"
@@ -1131,19 +1352,104 @@
     },
     {
       "title": {
-        "zh": "刷墙铺地塑料布",
-        "en": "Plastic Cover Sheet",
-        "de": "Abdeckfolie"
+        "zh": "插排（多款）",
+        "en": "Power Strips (Various)",
+        "de": "Steckdosenleisten (verschiedene)"
       },
-      "cover": "img/刷墙铺地塑料布_2欧.jpg",
+      "cover": "img/各种插排，还有中式插排2欧每个需要可咨询.jpg",
       "images": [
-        "img/刷墙铺地塑料布_2欧.jpg"
+        "img/各种插排，还有中式插排2欧每个需要可咨询.jpg"
+      ],
+      "price": "€2 each",
+      "description": {
+        "zh": "多种插排可选，含中式插排。",
+        "en": "Various power strips available, including Chinese type.",
+        "de": "Verschiedene Steckdosenleisten, auch chinesischer Typ verfügbar."
+      }
+    },
+    {
+      "title": {
+        "zh": "订书器",
+        "en": "Stapler",
+        "de": "Tacker"
+      },
+      "cover": "img/订书器_2欧每个.jpg",
+      "images": [
+        "img/订书器_2欧每个.jpg"
+      ],
+      "price": "€2 each",
+      "description": {
+        "zh": "日常办公学习使用。",
+        "en": "Suitable for daily office or study use.",
+        "de": "Geeignet für Büro und Studium."
+      }
+    },
+    {
+      "title": {
+        "zh": "大打孔器",
+        "en": "Heavy Duty Hole Punch",
+        "de": "Großer Locher"
+      },
+      "cover": "img/大打孔器2欧.jpg",
+      "images": [
+        "img/大打孔器2欧.jpg"
       ],
       "price": "€2",
       "description": {
-        "zh": "适合搬家、装修或保护地面使用。",
-        "en": "Useful for moving, painting, or floor protection.",
-        "de": "Praktisch für Umzug, Renovierung oder Bodenschutz."
+        "zh": "适合厚纸打孔。",
+        "en": "Suitable for thicker paper.",
+        "de": "Geeignet für dickere Papierstapel."
+      }
+    },
+    {
+      "title": {
+        "zh": "大文件夹",
+        "en": "Large File Folder",
+        "de": "Großer Ordner"
+      },
+      "cover": "img/大文件夹2欧.jpg",
+      "images": [
+        "img/大文件夹2欧.jpg"
+      ],
+      "price": "€2",
+      "description": {
+        "zh": "适合整理文件资料。",
+        "en": "Useful for organizing documents.",
+        "de": "Praktisch für Dokumente."
+      }
+    },
+    {
+      "title": {
+        "zh": "卷尺",
+        "en": "Measuring Tape",
+        "de": "Maßband"
+      },
+      "cover": "img/卷尺2欧.jpg",
+      "images": [
+        "img/卷尺2欧.jpg"
+      ],
+      "price": "€2",
+      "description": {
+        "zh": "适合测量使用。",
+        "en": "Useful for measurements.",
+        "de": "Praktisch zum Messen."
+      }
+    },
+    {
+      "title": {
+        "zh": "体重秤",
+        "en": "Body Scale",
+        "de": "Personenwaage"
+      },
+      "cover": "img/体重秤2欧.jpg",
+      "images": [
+        "img/体重秤2欧.jpg"
+      ],
+      "price": "€2",
+      "description": {
+        "zh": "日常称重使用。",
+        "en": "Suitable for daily weight measurement.",
+        "de": "Geeignet für das tägliche Wiegen."
       }
     },
     {
@@ -1182,72 +1488,105 @@
     },
     {
       "title": {
-        "zh": "黑色金属框",
-        "en": "Black Metal Frame",
-        "de": "Schwarzer Metallrahmen"
+        "zh": "刷墙铺地塑料布",
+        "en": "Plastic Cover Sheet",
+        "de": "Abdeckfolie"
       },
-      "cover": "img/黑色金属框_2欧.jpg",
+      "cover": "img/刷墙铺地塑料布_2欧.jpg",
       "images": [
-        "img/黑色金属框_2欧.jpg"
+        "img/刷墙铺地塑料布_2欧.jpg"
       ],
       "price": "€2",
       "description": {
-        "zh": "可作摆件或小型支架使用。",
-        "en": "Can be used as a frame or small stand.",
-        "de": "Kann als Rahmen oder kleine Halterung genutzt werden."
+        "zh": "适合搬家、装修或保护地面使用。",
+        "en": "Useful for moving, painting, or floor protection.",
+        "de": "Praktisch für Umzug, Renovierung oder Bodenschutz."
       }
     },
     {
       "title": {
-        "zh": "照片展示板",
-        "en": "Photo Display Board",
-        "de": "Fotowand / Fotoboard"
+        "zh": "书立",
+        "en": "Book Stand",
+        "de": "Buchstütze"
       },
-      "cover": "img/照片展示板2欧.jpg",
+      "cover": "img/书立1欧.jpg",
       "images": [
-        "img/照片展示板2欧.jpg"
+        "img/书立1欧.jpg"
       ],
-      "price": "€2",
+      "price": "€1",
       "description": {
-        "zh": "适合展示照片、卡片和便签。",
-        "en": "Suitable for photos, cards, and notes.",
-        "de": "Geeignet für Fotos, Karten und Notizen."
+        "zh": "适合收纳书本和文件。",
+        "en": "Useful for organizing books and files.",
+        "de": "Praktisch für Bücher und Dokumente."
       }
     },
     {
-  "title": {
-    "zh": "铁质衣帽架",
-    "en": "Metal Coat Rack",
-    "de": "Metall-Garderobenständer"
-  },
-  "cover": "img/铁质衣帽架.jpg",
-  "images": [
-    "img/铁质衣帽架.jpg",
-    "img/铁质衣帽架2.jpg"
-  ],
-  "price": "€5",
-  "description": {
-    "zh": "底部较重，非常稳，可以挂较重的衣物或包，适合日常使用，自取。",
-    "en": "Heavy base and very stable, can hold heavier clothes or bags. Pickup only.",
-    "de": "Schwerer Standfuß und sehr stabil, geeignet für schwere Kleidung oder Taschen. Nur Abholung."
-  }
-},
+      "title": {
+        "zh": "小型化妆品置物架",
+        "en": "Mini Cosmetic Organizer",
+        "de": "Kleiner Kosmetik-Organizer"
+      },
+      "cover": "img/小型化妆品置物架1欧.jpg",
+      "images": [
+        "img/小型化妆品置物架1欧.jpg"
+      ],
+      "price": "€1",
+      "description": {
+        "zh": "适合收纳护肤品和小物件。",
+        "en": "Great for cosmetics and small items.",
+        "de": "Ideal für Kosmetik und Kleinteile."
+      }
+    },
     {
-  "title": {
-    "zh": "颈椎按摩拉伸枕",
-    "en": "Neck Massage & Stretching Pillow",
-    "de": "Nacken-Massage- und Dehnungskissen"
-  },
-  "cover": "img/颈枕2.jpg",
-  "images": [
-    "img/颈枕2.jpg"
-  ],
-  "price": "€2",
-  "description": {
-    "zh": "用于颈部放松和拉伸，带按摩凸点，适合长时间低头或久坐人群使用。",
-    "en": "Designed for neck relaxation and stretching, with massage nodes. Suitable for people who sit long hours or use phones frequently.",
-    "de": "Zur Entspannung und Dehnung des Nackens, mit Massagepunkten. Ideal für Personen, die lange sitzen oder viel aufs Handy schauen."
-  }
-}
-]
+      "title": {
+        "zh": "剪刀",
+        "en": "Scissors",
+        "de": "Schere"
+      },
+      "cover": "img/剪刀1欧每个.jpg",
+      "images": [
+        "img/剪刀1欧每个.jpg"
+      ],
+      "price": "€1 each",
+      "description": {
+        "zh": "日常使用方便。",
+        "en": "Useful for everyday tasks.",
+        "de": "Praktisch für den Alltag."
+      }
+    },
+    {
+      "title": {
+        "zh": "打孔器",
+        "en": "Hole Punch",
+        "de": "Locher"
+      },
+      "cover": "img/打孔器1欧每个.jpg",
+      "images": [
+        "img/打孔器1欧每个.jpg"
+      ],
+      "price": "€1 each",
+      "description": {
+        "zh": "办公学习常用工具。",
+        "en": "Common tool for office and study.",
+        "de": "Standardwerkzeug für Büro und Studium."
+      }
+    },
+    {
+      "title": {
+        "zh": "打泡器",
+        "en": "Foam Maker",
+        "de": "Schaumspender"
+      },
+      "cover": "img/打泡器1欧.jpg",
+      "images": [
+        "img/打泡器1欧.jpg"
+      ],
+      "price": "€1",
+      "description": {
+        "zh": "轻松打出细腻泡沫。",
+        "en": "Creates fine foam easily.",
+        "de": "Erzeugt feinen Schaum."
+      }
+    }
+  ]
 }
