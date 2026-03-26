@@ -757,29 +757,13 @@
     },
     {
       "title": {
-        "zh": "折叠椅 1",
-        "en": "Folding Chair 1",
-        "de": "Klappstuhl 1"
+        "zh": "折叠椅",
+        "en": "Folding Chair",
+        "de": "Klappstuhl"
       },
       "cover": "img/折叠椅1_3欧.jpg",
       "images": [
-        "img/折叠椅1_3欧.jpg"
-      ],
-      "price": "€3",
-      "description": {
-        "zh": "轻便实用，方便收纳。",
-        "en": "Lightweight, practical, and easy to store.",
-        "de": "Leicht, praktisch und einfach zu verstauen."
-      }
-    },
-    {
-      "title": {
-        "zh": "折叠椅 2",
-        "en": "Folding Chair 2",
-        "de": "Klappstuhl 2"
-      },
-      "cover": "img/折叠椅2_3欧.jpg",
-      "images": [
+        "img/折叠椅1_3欧.jpg",
         "img/折叠椅2_3欧.jpg"
       ],
       "price": "€3",
@@ -1168,9 +1152,9 @@
     },
     {
       "title": {
-        "zh": "厨房用品 5 样",
-        "en": "Kitchen Utensils (5 pcs)",
-        "de": "Küchenutensilien (5 Stück)"
+        "zh": "厨房用品自选 5 样",
+        "en": "Kitchen Utensils (Pick Any 5)",
+        "de": "Küchenutensilien (5 Stück nach Wahl)"
       },
       "cover": "img/厨房用品3欧5样1.jpg",
       "images": [
@@ -1181,9 +1165,9 @@
       ],
       "price": "€3",
       "description": {
-        "zh": "厨房用品 5 样打包出售。",
-        "en": "5 kitchen utensils sold as a set.",
-        "de": "5 Küchenutensilien als Set verkauft."
+        "zh": "€3 可自选 5 样厨房用品，尽量大件配小件搭配，价格可根据实际情况调整。详情见图。",
+        "en": "€3 for any 5 kitchen items of your choice. Please mix larger and smaller items. Price may be adjusted based on selection. See photos for details.",
+        "de": "€3 für 5 Küchenutensilien nach Wahl. Bitte große und kleine Artikel mischen. Preis kann je nach Auswahl angepasst werden. Siehe Fotos für Details."
       }
     },
     {
